@@ -20,6 +20,8 @@ pushd "$WD"
     -jar glowstone.jar \
     --verbose \
     --enable-http \
+    --enable-https \
+    --enable-all-security-services \
     --allow-incomplete-classpath \
     --report-unsupported-elements-at-runtime \
     "-H:JNIConfigurationFiles=$CONFD/jni-config.json" \
@@ -27,7 +29,7 @@ pushd "$WD"
     "-H:ResourceConfigurationFiles=$CONFD/resource-config.json" \
     "-H:DynamicProxyConfigurationFiles=$CONFD/proxy-config.json" \
     -H:+TraceClassInitialization \
-    -H:IncludeResourceBundles=strings \
+    -H:IncludeResourceBundles=strings,org.bukkit.craftbukkit.libs.jline.console.completer.CandidateListCompletionHandler \
     --initialize-at-build-time=org.bukkit.Material,com.google.common.base,com.google.common.collect \
     '--initialize-at-run-time=net.glowstone.inventory.ToolType$ToolMaterial' \
     -H:+ReportExceptionStackTraces $@
