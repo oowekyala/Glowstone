@@ -1,13 +1,10 @@
 {
   "resources":[
     {"pattern":"META-INF/.*"}, 
-    {"pattern":"builtin/.*"},
-    {"pattern":".*\\.xml"},
-    {"pattern":"log4j.xml"},
+    {"pattern":"builtin/.*" },
     {"pattern":"javax/crypto/Cipher.class"}, 
     {"pattern":".*.properties"}, 
     {"pattern":"org/slf4j/impl/StaticLoggerBinder.class"}, 
-    {"pattern":"strings.properties"}, 
     {"pattern":"sun/net/idn/uidna.spp"}, 
     {"pattern":"sun/text/resources/unorm.icu"}
   ]
