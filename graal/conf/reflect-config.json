@@ -19,6 +19,12 @@
   "allDeclaredMethods":true
 },
 {
+  "name":"io.netty.channel.socket.nio.NioServerSocketChannel",
+  "methods":[
+    {"name":"<init>", "parameterTypes":[] }
+  ]
+},
+{
   "name":"io.netty.channel.epoll.EpollDatagramChannel",
   "methods":[{"name":"<init>","parameterTypes":[] }]
 },
@@ -114,6 +120,12 @@
 {
   "name":"java.nio.file.attribute.PosixFilePermissions",
   "methods":[{"name":"fromString","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"java.sql.Date"
+},
+{
+  "name":"java.sql.Timestamp"
 },
 {
   "name":"net.glowstone.entity.ai.LookAroundTask",
