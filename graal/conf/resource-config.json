@@ -1,11 +1,14 @@
 {
   "resources":[
-    {"pattern":"META-INF/.*"}, 
+    {"pattern":"META-INF/.*"},
     {"pattern":"builtin/.*" },
-    {"pattern":"javax/crypto/Cipher.class"}, 
-    {"pattern":".*.properties"}, 
-    {"pattern":"org/slf4j/impl/StaticLoggerBinder.class"}, 
-    {"pattern":"sun/net/idn/uidna.spp"}, 
+    {"pattern":".*.yml" },
+    {"pattern":".*.json" },
+    {"pattern":".*(?!\\.class)$"},
+    {"pattern":"Canari.inf" },
+    {"pattern":"javax/crypto/Cipher.class"},
+    {"pattern":"org/slf4j/impl/StaticLoggerBinder.class"},
+    {"pattern":"sun/net/idn/uidna.spp"},
     {"pattern":"sun/text/resources/unorm.icu"}
   ]
 }
