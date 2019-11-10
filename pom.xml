@@ -80,6 +80,12 @@
       <version>1.18.4</version>
       <scope>provided</scope>
     </dependency>
+    <!-- Update snake because of NPE when accessing system property (check for Android runtime in util/PlatformFeatureDetector.java -->
+    <dependency>
+      <groupId>org.yaml</groupId>
+      <artifactId>snakeyaml</artifactId>
+      <version>1.25</version>
+    </dependency>
     <dependency>
       <groupId>com.flowpowered</groupId>
       <artifactId>flow-network</artifactId>
