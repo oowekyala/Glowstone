@@ -13,7 +13,7 @@ WD=$(mktemp -d --suffix='-glowstone-graal-compile')
 
 cp -r "$SRC_D/target/glowstone.jar" "$WD"
 
-pushd "$WD"
+pushd "$WD" || exit
 
 "$GRAAL_HOME/bin/native-image" \
     -J-Xmx4g \

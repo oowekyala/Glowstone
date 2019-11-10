@@ -1,13 +1,11 @@
 package net.glowstone.util;
 
+import java.util.Map;
+
 import com.google.common.base.CharMatcher;
 import com.google.common.collect.ImmutableMap;
-import java.util.Map;
-import java.util.function.Function;
-import java.util.stream.Stream;
 import net.glowstone.util.library.Library;
 import net.glowstone.util.library.LibraryKey;
-import net.glowstone.util.library.LibraryManager;
 
 /**
  * Compatibility bundles are bundles of libraries that other servers include in their servers
@@ -16,7 +14,9 @@ import net.glowstone.util.library.LibraryManager;
  */
 public enum CompatibilityBundle {
     CRAFTBUKKIT(
-        Stream.of(
+        // This is a stupid hack to avoid downloading libs at runtime,
+        // instead those are put into the POM
+        /*Stream.of(
             new Library("org.xerial", "sqlite-jdbc", "3.21.0.1",
                 LibraryManager.HashAlgorithm.SHA1, "81a0bcda2f100dc91dc402554f60ed2f696cded5"),
             new Library("mysql", "mysql-connector-java", "5.1.46",
@@ -28,7 +28,8 @@ public enum CompatibilityBundle {
             new Library("org.apache.commons", "commons-lang3", "3.5",
                 LibraryManager.HashAlgorithm.SHA1, "6c6c702c89bfff3cd9e80b04d668c5e190d588c6")
         )
-            .collect(ImmutableMap.toImmutableMap(Library::getLibraryKey, Function.identity()))
+            .collect(ImmutableMap.toImmutableMap(Library::getLibraryKey, Function.identity()))*/
+        ImmutableMap.of()
     ),
     NONE(ImmutableMap.of());
 
