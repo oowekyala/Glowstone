@@ -5,6 +5,7 @@
 
 SRC_D="$(pwd)"
 SCRIPTD="$SRC_D/graal"
+CONFD="$SCRIPTD/conf"
 WD=$(mktemp -d --suffix='-glowstone-graal-compile')
 
 
@@ -20,7 +21,15 @@ pushd "$WD"
     --verbose \
     --enable-http \
     --allow-incomplete-classpath \
-     --report-unsupported-elements-at-runtime \
+    --report-unsupported-elements-at-runtime \
+    "-H:JNIConfigurationFiles=$CONFD/jni-config.json" \
+    "-H:ReflectionConfigurationFiles=$CONFD/reflect-config.json" \
+    "-H:ResourceConfigurationFiles=$CONFD/resource-config.json" \
+    "-H:DynamicProxyConfigurationFiles=$CONFD/proxy-config.json" \
+    -H:+TraceClassInitialization \
+    -H:IncludeResourceBundles=strings \
+    --initialize-at-build-time=org.bukkit.Material,com.google.common.base,com.google.common.collect \
+    '--initialize-at-run-time=net.glowstone.inventory.ToolType$ToolMaterial' \
     -H:+ReportExceptionStackTraces $@
 
 # "$GRAAL_HOME/bin/native-image"     -J-Xmx4g     -jar glowstone.jar     --verbose     --enable-http     --allow-incomplete-classpath      --report-unsupported-elements-at-runtime     -H:+ReportExceptionStackTraces -H:Optimize=0  -H:+TraceClassInitialization --initialize-at-build-time=org.bukkit.Material,com.google.common.base,com.google.common.collect --initialize-at-run-time=net.glowstone.inventory.ToolType$ToolMaterial

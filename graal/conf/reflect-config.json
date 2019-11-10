@@ -1,0 +1,2629 @@
+[
+  {
+    "name": "com.google.common.util.concurrent.AbstractFuture",
+    "fields": [
+      {
+        "name": "listeners",
+        "allowUnsafeAccess": true
+      },
+      {
+        "name": "value",
+        "allowUnsafeAccess": true
+      },
+      {
+        "name": "waiters",
+        "allowUnsafeAccess": true
+      }
+    ]
+  },
+  {
+    "name": "com.google.common.util.concurrent.AbstractFuture$Waiter",
+    "fields": [
+      {
+        "name": "next",
+        "allowUnsafeAccess": true
+      },
+      {
+        "name": "thread",
+        "allowUnsafeAccess": true
+      }
+    ]
+  },
+  {
+    "name": "io.netty.buffer.AbstractByteBufAllocator",
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "io.netty.channel.epoll.EpollDatagramChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "io.netty.channel.epoll.EpollServerSocketChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "io.netty.channel.epoll.EpollSocketChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "io.netty.util.ReferenceCountUtil",
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "io.netty.util.internal.NativeLibraryUtil",
+    "methods": [
+      {
+        "name": "loadLibrary",
+        "parameterTypes": [
+          "java.lang.String",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueColdProducerFields",
+    "fields": [
+      {
+        "name": "producerLimit",
+        "allowUnsafeAccess": true
+      }
+    ]
+  },
+  {
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueConsumerFields",
+    "fields": [
+      {
+        "name": "consumerIndex",
+        "allowUnsafeAccess": true
+      }
+    ]
+  },
+  {
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueProducerFields",
+    "fields": [
+      {
+        "name": "producerIndex",
+        "allowUnsafeAccess": true
+      }
+    ]
+  },
+  {
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueConsumerIndexField",
+    "fields": [
+      {
+        "name": "consumerIndex",
+        "allowUnsafeAccess": true
+      }
+    ]
+  },
+  {
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueProducerIndexField",
+    "fields": [
+      {
+        "name": "producerIndex",
+        "allowUnsafeAccess": true
+      }
+    ]
+  },
+  {
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueProducerLimitField",
+    "fields": [
+      {
+        "name": "producerLimit",
+        "allowUnsafeAccess": true
+      }
+    ]
+  },
+  {
+    "name": "java.io.File",
+    "methods": [
+      {
+        "name": "toPath",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "java.lang.ProcessBuilder",
+    "methods": [
+      {
+        "name": "redirectInput",
+        "parameterTypes": [
+          "java.lang.ProcessBuilder$Redirect"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "java.lang.ProcessBuilder$Redirect",
+    "fields": [
+      {
+        "name": "INHERIT"
+      }
+    ]
+  },
+  {
+    "name": "java.lang.System",
+    "methods": [
+      {
+        "name": "console",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "java.lang.Throwable",
+    "methods": [
+      {
+        "name": "addSuppressed",
+        "parameterTypes": [
+          "java.lang.Throwable"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "java.lang.management.ManagementFactory",
+    "methods": [
+      {
+        "name": "getRuntimeMXBean",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "java.lang.management.RuntimeMXBean",
+    "methods": [
+      {
+        "name": "getName",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "java.net.URLClassLoader",
+    "methods": [
+      {
+        "name": "addURL",
+        "parameterTypes": [
+          "java.net.URL"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "java.nio.Bits",
+    "methods": [
+      {
+        "name": "unaligned",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "java.nio.Buffer",
+    "fields": [
+      {
+        "name": "address",
+        "allowUnsafeAccess": true
+      }
+    ]
+  },
+  {
+    "name": "java.nio.DirectByteBuffer",
+    "fields": [
+      {
+        "name": "cleaner",
+        "allowUnsafeAccess": true
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "java.nio.file.Files",
+    "methods": [
+      {
+        "name": "setPosixFilePermissions",
+        "parameterTypes": [
+          "java.nio.file.Path",
+          "java.util.Set"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "java.nio.file.attribute.PosixFilePermissions",
+    "methods": [
+      {
+        "name": "fromString",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.entity.ai.LookAroundTask",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.entity.ai.LookAtPlayerTask",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.entity.monster.complex.GlowEnderDragon",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.bukkit.Location"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.KickCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.SetCompressionCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.handshake.HandshakeCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.login.EncryptionKeyRequestCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.login.EncryptionKeyResponseCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.login.LoginStartCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.login.LoginSuccessCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.AnimateEntityCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.AttachEntityCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.CollectItemCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.DestroyEntitiesCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.EntityEffectCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.EntityEquipmentCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.EntityHeadRotationCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.EntityMetadataCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.EntityPropertyCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.EntityRemoveEffectCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.EntityRotationCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.EntityStatusCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.EntityTeleportCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.EntityVelocityCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.RelativeEntityPositionCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.RelativeEntityPositionRotationCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.SetCooldownCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.SetPassengerCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.SpawnLightningStrikeCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.SpawnMobCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.SpawnObjectCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.SpawnPaintingCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.SpawnPlayerCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.SpawnXpOrbCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.entity.VehicleMoveCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.BlockActionCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.BlockBreakAnimationCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.BlockChangeCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.ChatCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.ChunkDataCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.ClientSettingsCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.CraftRecipeRequestCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.CraftRecipeResponseCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.CraftingBookDataCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.ExperienceCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.ExplosionCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.HealthCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.IncomingChatCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.JoinGameCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.MapDataCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.MultiBlockChangeCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.NamedSoundEffectCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.PingCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.PlayEffectCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.PlayParticleCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.PluginMessageCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.PositionRotationCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.RespawnCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.SignEditorCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.SoundEffectCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.SpawnPositionCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.StateChangeCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.StatisticCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.TimeCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.TitleCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.UnloadChunkCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.UnlockRecipesCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.UpdateBlockEntityCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.UpdateSignCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.UserListHeaderFooterCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.UserListItemCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.game.WorldBorderCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.inv.CloseWindowCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.inv.CreativeItemCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.inv.EnchantItemCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.inv.HeldItemCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.inv.OpenWindowCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.inv.SetWindowContentsCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.inv.SetWindowSlotCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.inv.TransactionCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.inv.WindowClickCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.inv.WindowPropertyCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.AdvancementTabCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.AdvancementsCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.BlockPlacementCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.BossBarCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.CameraCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.ClientStatusCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.CombatEventCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.DiggingCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.InteractEntityCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.PlayerAbilitiesCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.PlayerActionCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.PlayerLookCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.PlayerPositionCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.PlayerPositionLookCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.PlayerSwingArmCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.PlayerUpdateCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.ResourcePackSendCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.ResourcePackStatusCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.ServerDifficultyCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.SpectateCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.SteerBoatCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.SteerVehicleCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.TabCompleteCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.TabCompleteResponseCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.TeleportConfirmCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.UseBedCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.player.UseItemCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.scoreboard.ScoreboardDisplayCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.scoreboard.ScoreboardObjectiveCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.scoreboard.ScoreboardScoreCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.play.scoreboard.ScoreboardTeamCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.status.StatusPingCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.status.StatusRequestCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.codec.status.StatusResponseCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.handshake.HandshakeHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.login.EncryptionKeyResponseHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.login.LoginStartHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.game.ClientSettingsHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.game.CraftRecipeRequestHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.game.CraftingBookDataHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.game.IncomingChatHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.game.PingHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.game.PluginMessageHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.game.UpdateSignHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.inv.CloseWindowHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.inv.CreativeItemHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.inv.EnchantItemHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.inv.HeldItemHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.inv.TransactionHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.inv.VehicleMoveHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.inv.WindowClickHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.AdvancementTabHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.BlockPlacementHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.ClientStatusHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.DiggingHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.InteractEntityHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.PlayerAbilitiesHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.PlayerActionHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.PlayerSwingArmHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.PlayerUpdateHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.ResourcePackStatusHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.SpectateHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.SteerBoatHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.SteerVehicleHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.TabCompleteHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.TeleportConfirmHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.play.player.UseItemHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.status.StatusPingHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.net.handler.status.StatusRequestHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.maven.repository.internal.DefaultArtifactDescriptorReader",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.maven.repository.internal.DefaultVersionRangeResolver",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.maven.repository.internal.DefaultVersionResolver",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.maven.repository.internal.SnapshotMetadataGeneratorFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.maven.repository.internal.VersionsMetadataGeneratorFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.craftbukkit.libs.jline.UnixTerminal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Banner",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Bed",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Button",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Cake",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Cauldron",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Chest",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Coal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.CocoaPlant",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Command",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Comparator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Crops",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.DetectorRail",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Diode",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Dirt",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Dispenser",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Door",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.DoublePlant",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Dye",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.EnderChest",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.FlowerPot",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Furnace",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Gate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Hopper",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Ladder",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Leaves",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Lever",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.LongGrass",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.MaterialData",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.MonsterEggs",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Mushroom",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.NetherWarts",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Observer",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.PistonBaseMaterial",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.PistonExtensionMaterial",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.PoweredRail",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.PressurePlate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Prismarine",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Pumpkin",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Rails",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.RedstoneTorch",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.RedstoneWire",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Sand",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Sandstone",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Sapling",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Sign",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Skull",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.SmoothBrick",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.SpawnEgg",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Sponge",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Stairs",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Step",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Stone",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Torch",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.TrapDoor",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Tree",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Tripwire",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.TripwireHook",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Vine",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Wood",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.WoodenStep",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.material.Wool",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int",
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.bukkit.plugin.java.JavaPluginLoader",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.bukkit.Server"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.connector.wagon.WagonRepositoryConnectorFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultArtifactResolver",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultDependencyCollector",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultDeployer",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultFileProcessor",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultInstaller",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultLocalRepositoryProvider",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultMetadataResolver",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultRemoteRepositoryManager",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultRepositoryEventDispatcher",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultRepositorySystem",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultSyncContextFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.DefaultUpdateCheckManager",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.EnhancedLocalRepositoryManagerFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.sonatype.aether.impl.internal.SimpleLocalRepositoryManagerFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.misc.Cleaner",
+    "methods": [
+      {
+        "name": "clean",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "net.glowstone.util.loot.LootingUtil",
+    "methods": [
+      {
+        "name": "isNot",
+        "parameterTypes": [
+          "java.lang.Object",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "sun.misc.Unsafe",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "copyMemory",
+        "parameterTypes": [
+          "java.lang.Object",
+          "long",
+          "java.lang.Object",
+          "long",
+          "long"
+        ]
+      },
+      {
+        "name": "getAndSetObject",
+        "parameterTypes": [
+          "java.lang.Object",
+          "long",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "sun.misc.VM",
+    "methods": [
+      {
+        "name": "maxDirectMemory",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.net.dns.ResolverConfiguration",
+    "methods": [
+      {
+        "name": "open",
+        "parameterTypes": []
+      },
+      {
+        "name": "searchlist",
+        "parameterTypes": []
+      }
+    ]
+  }
+]
