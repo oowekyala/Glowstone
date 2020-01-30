@@ -197,6 +197,16 @@
       <scope>test</scope>
     </dependency>
 
+    
+    <!-- This is needed to compile the substitutions (eg for netty) -->
+    <dependency>
+	    <groupId>com.oracle.substratevm</groupId>
+	    <artifactId>svm</artifactId>
+	    <version>19.2.0</version>
+	    <scope>provided</scope>
+    </dependency>
+
+
     <!-- BUKKIT DEPENDENCIES - this is a hack, to avoid downloading libraries at runtime -->
       <dependency>
           <groupId>org.xerial</groupId>
