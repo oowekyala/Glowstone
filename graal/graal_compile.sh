@@ -16,8 +16,9 @@ cp -r "$SRC_D/target/glowstone.jar" "$WD"
 pushd "$WD" || exit
 
 "$GRAALVM_HOME/bin/native-image" \
-    -J-Xmx4g \
-    -jar glowstone.jar \
+    --no-server \
+    -J-Xmx8g \
+    -jar glowstone.jar glowstone-native \
     --verbose \
     --enable-http \
     --enable-https \
@@ -30,7 +31,7 @@ pushd "$WD" || exit
     "-H:DynamicProxyConfigurationFiles=$CONFD/proxy-config.json" \
     -H:+TraceClassInitialization \
     -H:IncludeResourceBundles=strings,org.bukkit.craftbukkit.libs.jline.console.completer.CandidateListCompletionHandler \
-    --initialize-at-build-time=org.bukkit.Material,com.google.common.base,com.google.common.collect \
+    --initialize-at-build-time=org.bukkit.Material,com.google.common.base,com.google.common.collect,org.slf4j.impl \
     '--initialize-at-run-time=net.glowstone.inventory.ToolType$ToolMaterial' \
     -H:+ReportExceptionStackTraces $@
 
