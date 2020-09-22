@@ -6,19 +6,19 @@
 SRC_D="$(pwd)"
 SCRIPTD="$SRC_D/graal"
 CONFD="$SCRIPTD/conf"
-WD=$(mktemp -d --suffix='-glowstone-graal-compile')
+WD="$SRC_D/target/graal-wd"
 
 
 # set -e
 
-cp -r "$SRC_D/target/glowstone.jar" "$WD"
+mkdir -p "$WD"
 
 pushd "$WD" || exit
 
 "$GRAALVM_HOME/bin/native-image" \
     --no-server \
     -J-Xmx8g \
-    -jar glowstone.jar glowstone-native \
+    -jar "$SRC_D/target/glowstone.jar" glowstone-native \
     --verbose \
     --enable-http \
     --enable-https \
@@ -30,12 +30,14 @@ pushd "$WD" || exit
     "-H:ResourceConfigurationFiles=$CONFD/resource-config.json" \
     "-H:DynamicProxyConfigurationFiles=$CONFD/proxy-config.json" \
     -H:+TraceClassInitialization \
-    -H:IncludeResourceBundles=strings,org.bukkit.craftbukkit.libs.jline.console.completer.CandidateListCompletionHandler \
+    -H:IncludeResourceBundles=strings,commands,org.bukkit.craftbukkit.libs.jline.console.completer.CandidateListCompletionHandler \
     --initialize-at-build-time=org.bukkit.Material,com.google.common.base,com.google.common.collect,org.slf4j.impl \
     '--initialize-at-run-time=net.glowstone.inventory.ToolType$ToolMaterial' \
     -H:+ReportExceptionStackTraces $@
 
-# "$GRAALVM_HOME/bin/native-image"     -J-Xmx4g     -jar glowstone.jar     --verbose     --enable-http     --allow-incomplete-classpath      --report-unsupported-elements-at-runtime     -H:+ReportExceptionStackTraces -H:Optimize=0  -H:+TraceClassInitialization --initialize-at-build-time=org.bukkit.Material,com.google.common.base,com.google.common.collect --initialize-at-run-time=net.glowstone.inventory.ToolType$ToolMaterial
+if [ $? -eq 0 ]; then
+    mv -f glowstone-native ..
+fi
 
-# popd "$WD"
+popd
 

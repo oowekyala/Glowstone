@@ -1,5 +1,21 @@
 [
 {
+  "name":"java.lang.ClassLoader",
+  "methods":[
+    {"name":"getPlatformClassLoader","parameterTypes":[] }, 
+    {"name":"loadClass","parameterTypes":["java.lang.String"] }
+  ]
+},
+{
+  "name":"java.lang.ClassNotFoundException"
+},
+{
+  "name":"java.lang.NoSuchMethodError"
+},
+{
+  "name":"java.lang.String"
+},
+{
   "name":"org.fusesource.jansi.internal.CLibrary",
   "fields":[
     {"name":"HAVE_ISATTY"}, 
@@ -14,6 +30,28 @@
     {"name":"TIOCGWINSZ"}, 
     {"name":"TIOCSETD"}, 
     {"name":"TIOCSWINSZ"}
+  ]
+},
+{
+  "name":"sun.instrument.InstrumentationImpl",
+  "methods":[
+    {"name":"<init>","parameterTypes":["long","boolean","boolean"] }, 
+    {"name":"loadClassAndCallAgentmain","parameterTypes":["java.lang.String","java.lang.String"] }, 
+    {"name":"loadClassAndCallPremain","parameterTypes":["java.lang.String","java.lang.String"] }, 
+    {"name":"transform","parameterTypes":["java.lang.Module","java.lang.ClassLoader","java.lang.String","java.lang.Class","java.security.ProtectionDomain","byte[]","boolean"] }
+  ]
+},
+{
+  "name":"sun.management.VMManagementImpl",
+  "fields":[
+    {"name":"compTimeMonitoringSupport"}, 
+    {"name":"currentThreadCpuTimeSupport"}, 
+    {"name":"objectMonitorUsageSupport"}, 
+    {"name":"otherThreadCpuTimeSupport"}, 
+    {"name":"remoteDiagnosticCommandsSupport"}, 
+    {"name":"synchronizerUsageSupport"}, 
+    {"name":"threadAllocatedMemorySupport"}, 
+    {"name":"threadContentionMonitoringSupport"}
   ]
 }
 ]
