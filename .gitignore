@@ -23,4 +23,3 @@ dependency-reduced-pom.xml
 .vscode
 sandbox
 tmp
-bench_results
