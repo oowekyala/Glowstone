@@ -1,0 +1,3408 @@
+top - 17:31:54 up  2:47,  4 users,  load average: 2.87, 2.58, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.4 us,  2.4 sy,  0.1 ni, 81.7 id,  0.2 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  2612700 free,  2492960 used,  2568628 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4558380 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5694520 479416  51156 S 120.0  6.2   0:12.83 java
+
+top - 17:31:55 up  2:47,  4 users,  load average: 2.88, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.3 us,  1.4 sy,  0.0 ni, 76.1 id,  0.0 wa,  0.0 hi,  3.1 si,  0.0 st
+KiB Mem :  7674288 total,  2612700 free,  2492960 used,  2568628 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4558380 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695264 487400  51156 S 138.0  6.4   0:13.52 java
+
+top - 17:31:55 up  2:47,  4 users,  load average: 2.88, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.8 us,  0.3 sy,  0.0 ni, 77.9 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  2612700 free,  2492960 used,  2568628 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4558380 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695544 488144  51156 S 154.0  6.4   0:14.29 java
+
+top - 17:31:56 up  2:47,  4 users,  load average: 2.88, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.6 us,  0.7 sy,  0.0 ni, 72.5 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  2612700 free,  2492960 used,  2568628 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4558380 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695264 491236  51156 S 188.0  6.4   0:15.23 java
+
+top - 17:31:56 up  2:47,  4 users,  load average: 2.88, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.1 us,  0.7 sy,  0.0 ni, 78.6 id,  0.0 wa,  0.0 hi,  4.6 si,  0.0 st
+KiB Mem :  7674288 total,  2612700 free,  2492960 used,  2568628 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4558380 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695264 491344  51156 S 126.0  6.4   0:15.86 java
+
+top - 17:31:57 up  2:47,  4 users,  load average: 2.88, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.8 us,  1.2 sy,  0.0 ni, 72.8 id,  0.5 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  2609864 free,  2509228 used,  2555196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4555564 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695544 493864  51156 S 178.0  6.4   0:16.75 java
+
+top - 17:31:57 up  2:47,  4 users,  load average: 2.88, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 37.6 us,  1.2 sy,  0.0 ni, 60.0 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  2609864 free,  2509228 used,  2555196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4555564 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695820 495792  51220 S 286.0  6.5   0:18.18 java
+
+top - 17:31:58 up  2:47,  4 users,  load average: 2.88, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.0 us,  0.5 sy,  0.0 ni, 80.5 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  2609864 free,  2509228 used,  2555196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4555564 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695960 523224  51220 S 125.5  6.8   0:18.82 java
+
+top - 17:31:58 up  2:47,  4 users,  load average: 2.88, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.9 us,  1.0 sy,  0.0 ni, 80.7 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,  2609864 free,  2509228 used,  2555196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4555564 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695960 524532  51220 S 110.0  6.8   0:19.37 java
+
+top - 17:31:59 up  2:47,  4 users,  load average: 2.88, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.8 us,  0.7 sy,  0.0 ni, 79.1 id,  0.7 wa,  0.0 hi,  3.7 si,  0.0 st
+KiB Mem :  7674288 total,  2609864 free,  2509228 used,  2555196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4555564 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695960 526048  51220 S 118.0  6.9   0:19.96 java
+
+top - 17:31:59 up  2:47,  4 users,  load average: 2.88, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.0 us,  1.2 sy,  0.0 ni, 80.6 id,  0.0 wa,  0.0 hi,  4.1 si,  0.0 st
+KiB Mem :  7674288 total,  2609864 free,  2509228 used,  2555196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4555564 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695680 557752  51220 S 116.0  7.3   0:20.54 java
+
+top - 17:32:00 up  2:47,  4 users,  load average: 2.81, 2.57, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.5 us,  1.5 sy,  0.0 ni, 77.3 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  2521104 free,  2573988 used,  2579196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4466816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695680 557948  51220 S 126.0  7.3   0:21.17 java
+
+top - 17:32:00 up  2:47,  4 users,  load average: 2.81, 2.57, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.1 us,  1.0 sy,  0.0 ni, 77.0 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  2521104 free,  2573988 used,  2579196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4466816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695820 559332  51220 S 142.0  7.3   0:21.88 java
+
+top - 17:32:01 up  2:47,  4 users,  load average: 2.81, 2.57, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.3 us,  1.0 sy,  0.0 ni, 78.7 id,  0.0 wa,  0.0 hi,  5.1 si,  0.0 st
+KiB Mem :  7674288 total,  2521104 free,  2573988 used,  2579196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4466816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5695820 595620  51220 S 126.0  7.8   0:22.51 java
+
+top - 17:32:01 up  2:47,  4 users,  load average: 2.81, 2.57, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.7 us,  1.5 sy,  0.0 ni, 66.1 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  2521104 free,  2573988 used,  2579196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4466816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5770224 602848  51404 S 236.0  7.9   0:23.69 java
+
+top - 17:32:02 up  2:47,  4 users,  load average: 2.81, 2.57, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.3 us,  0.7 sy,  0.0 ni, 66.1 id,  1.5 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,  2521104 free,  2573988 used,  2579196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4466816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5833680 600496  51408 S 230.0  7.8   0:24.84 java
+
+top - 17:32:02 up  2:47,  4 users,  load average: 2.81, 2.57, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.3 us,  0.7 sy,  0.0 ni, 74.8 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  2521104 free,  2573988 used,  2579196 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4466816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5833960 600776  51408 S 168.0  7.8   0:25.68 java
+
+top - 17:32:03 up  2:47,  4 users,  load average: 2.81, 2.57, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.2 us,  1.4 sy,  0.0 ni, 80.8 id,  0.0 wa,  0.0 hi,  4.6 si,  0.0 st
+KiB Mem :  7674288 total,  2494920 free,  2619056 used,  2560312 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4440648 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5833960 600776  51408 S 104.0  7.8   0:26.20 java
+
+top - 17:32:03 up  2:47,  4 users,  load average: 2.81, 2.57, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.8 us,  1.2 sy,  0.0 ni, 74.8 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  2494920 free,  2619056 used,  2560312 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4440648 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5834096 601008  51408 S 164.0  7.8   0:27.02 java
+
+top - 17:32:04 up  2:47,  4 users,  load average: 2.81, 2.57, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.2 us,  1.0 sy,  0.0 ni, 67.9 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  2494920 free,  2619056 used,  2560312 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4440648 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 5909840 609276  51408 S 222.0  7.9   0:28.13 java
+
+top - 17:32:04 up  2:47,  4 users,  load average: 2.81, 2.57, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.8 us,  0.7 sy,  0.0 ni, 66.5 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  2494920 free,  2619056 used,  2560312 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4440648 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6051820 615320  51488 S 233.3  8.0   0:29.32 java
+
+top - 17:32:05 up  2:47,  4 users,  load average: 2.66, 2.55, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.8 us,  1.3 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  2494920 free,  2619056 used,  2560312 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4440648 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122492 617432  51496 S 170.0  8.0   0:30.17 java
+
+top - 17:32:05 up  2:47,  4 users,  load average: 2.66, 2.55, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.8 us,  0.2 sy,  0.0 ni, 81.5 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,  2494920 free,  2619056 used,  2560312 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4440648 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122492 617516  51496 S 114.0  8.0   0:30.74 java
+
+top - 17:32:06 up  2:47,  4 users,  load average: 2.66, 2.55, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.0 us,  0.5 sy,  0.0 ni, 81.9 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  2477180 free,  2636444 used,  2560664 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4422952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 617736  51496 S 112.0  8.0   0:31.30 java
+
+top - 17:32:06 up  2:47,  4 users,  load average: 2.66, 2.55, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.0 us,  0.7 sy,  0.0 ni, 78.8 id,  0.0 wa,  0.0 hi,  5.5 si,  0.0 st
+KiB Mem :  7674288 total,  2477180 free,  2636444 used,  2560664 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4422952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 617740  51496 S 120.0  8.0   0:31.90 java
+
+top - 17:32:07 up  2:47,  4 users,  load average: 2.66, 2.55, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.0 us,  0.8 sy,  0.0 ni, 80.5 id,  0.5 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  2477180 free,  2636444 used,  2560664 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4422952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 618036  51496 S 124.0  8.1   0:32.52 java
+
+top - 17:32:07 up  2:47,  4 users,  load average: 2.66, 2.55, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.5 us,  0.7 sy,  0.0 ni, 81.3 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  2477180 free,  2636444 used,  2560664 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4422952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 618136  51496 S 120.0  8.1   0:33.12 java
+
+top - 17:32:08 up  2:47,  4 users,  load average: 2.66, 2.55, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.4 us,  1.2 sy,  0.0 ni, 80.4 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  2477180 free,  2636444 used,  2560664 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4422952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 618184  51496 S 124.0  8.1   0:33.74 java
+
+top - 17:32:08 up  2:47,  4 users,  load average: 2.66, 2.55, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.2 us,  0.7 sy,  0.0 ni, 81.9 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  2477180 free,  2636444 used,  2560664 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4422952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 618260  51496 S 110.0  8.1   0:34.29 java
+
+top - 17:32:09 up  2:47,  4 users,  load average: 2.66, 2.55, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.8 us,  0.7 sy,  0.0 ni, 81.2 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  2476172 free,  2637448 used,  2560668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4421952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 618264  51496 S 120.0  8.1   0:34.89 java
+
+top - 17:32:09 up  2:47,  4 users,  load average: 2.66, 2.55, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.0 us,  0.7 sy,  0.0 ni, 83.0 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  2476172 free,  2637448 used,  2560668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4421952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 618340  51496 S 104.0  8.1   0:35.41 java
+
+top - 17:32:10 up  2:47,  4 users,  load average: 2.53, 2.52, 2.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.9 us,  0.5 sy,  0.0 ni, 82.1 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  2476172 free,  2637448 used,  2560668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4421952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 621508  51496 S 115.7  8.1   0:36.00 java
+
+top - 17:32:10 up  2:47,  4 users,  load average: 2.53, 2.52, 2.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.7 us,  0.5 sy,  0.0 ni, 80.8 id,  0.2 wa,  0.0 hi,  3.8 si,  0.0 st
+KiB Mem :  7674288 total,  2476172 free,  2637448 used,  2560668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4421952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 621508  51496 S 108.0  8.1   0:36.54 java
+
+top - 17:32:11 up  2:47,  4 users,  load average: 2.53, 2.52, 2.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.5 us,  0.2 sy,  0.0 ni, 80.3 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  2476172 free,  2637448 used,  2560668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4421952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 623244  51496 S 126.0  8.1   0:37.17 java
+
+top - 17:32:11 up  2:47,  4 users,  load average: 2.53, 2.52, 2.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.3 us,  0.2 sy,  0.0 ni, 81.1 id,  0.0 wa,  0.0 hi,  4.4 si,  0.0 st
+KiB Mem :  7674288 total,  2476172 free,  2637448 used,  2560668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4421952 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 623296  51496 S 110.0  8.1   0:37.72 java
+
+top - 17:32:12 up  2:47,  4 users,  load average: 2.53, 2.52, 2.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.4 us,  0.2 sy,  0.0 ni, 80.2 id,  0.0 wa,  0.0 hi,  4.1 si,  0.0 st
+KiB Mem :  7674288 total,  2471448 free,  2642232 used,  2560608 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4417208 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 623296  51496 S 120.0  8.1   0:38.32 java
+
+top - 17:32:12 up  2:47,  4 users,  load average: 2.53, 2.52, 2.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.0 us,  0.5 sy,  0.0 ni, 81.9 id,  0.7 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  2471448 free,  2642232 used,  2560608 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4417208 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 623296  51496 S 106.0  8.1   0:38.85 java
+
+top - 17:32:13 up  2:47,  4 users,  load average: 2.53, 2.52, 2.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.0 us,  1.7 sy,  0.0 ni, 79.3 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  2471448 free,  2642232 used,  2560608 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4417208 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 623304  51496 S 134.0  8.1   0:39.52 java
+
+top - 17:32:13 up  2:47,  4 users,  load average: 2.53, 2.52, 2.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.4 us,  0.7 sy,  0.0 ni, 79.5 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,  2471448 free,  2642232 used,  2560608 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4417208 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 623304  51496 S 132.0  8.1   0:40.18 java
+
+top - 17:32:14 up  2:47,  4 users,  load average: 2.53, 2.52, 2.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us,  1.0 sy,  0.0 ni, 80.1 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  2471448 free,  2642232 used,  2560608 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4417208 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 623384  51496 S 116.0  8.1   0:40.76 java
+
+top - 17:32:14 up  2:47,  4 users,  load average: 2.53, 2.52, 2.27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us,  2.0 sy,  0.0 ni, 80.6 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+KiB Mem :  7674288 total,  2471448 free,  2642232 used,  2560608 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4417208 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 623452  51496 S 132.0  8.1   0:41.42 java
+
+top - 17:32:15 up  2:47,  4 users,  load average: 2.73, 2.56, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.2 us,  0.7 sy,  0.0 ni, 82.8 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+KiB Mem :  7674288 total,  2469936 free,  2643900 used,  2560452 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4415704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 623452  51496 S 114.0  8.1   0:41.99 java
+
+top - 17:32:15 up  2:47,  4 users,  load average: 2.73, 2.56, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.4 us,  1.0 sy,  0.0 ni, 80.1 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  2469936 free,  2643900 used,  2560452 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4415704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 623564  51496 S 125.5  8.1   0:42.63 java
+
+top - 17:32:16 up  2:47,  4 users,  load average: 2.73, 2.56, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.6 us,  0.7 sy,  0.0 ni, 81.9 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  2469936 free,  2643900 used,  2560452 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4415704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6122632 623648  51496 S 122.0  8.1   0:43.24 java
+
+top - 17:32:16 up  2:47,  4 users,  load average: 2.73, 2.56, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.3 us,  1.2 sy,  0.0 ni, 75.1 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,  2469936 free,  2643900 used,  2560452 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4415704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6189336 624044  51496 S 160.0  8.1   0:44.04 java
+
+top - 17:32:17 up  2:47,  4 users,  load average: 2.73, 2.56, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 56.6 us,  2.0 sy,  0.0 ni, 40.7 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+KiB Mem :  7674288 total,  2469936 free,  2643900 used,  2560452 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4415704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6324372 626680  51560 S 446.0  8.2   0:46.27 java
+
+top - 17:32:17 up  2:47,  4 users,  load average: 2.73, 2.56, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 35.9 us,  1.8 sy,  0.0 ni, 61.1 id,  0.5 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  2469936 free,  2643900 used,  2560452 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4415704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6324096 627344  51560 S 292.0  8.2   0:47.73 java
+
+top - 17:32:18 up  2:47,  4 users,  load average: 2.73, 2.56, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.0 us,  1.8 sy,  0.0 ni, 92.8 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  2475040 free,  2647164 used,  2552084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4420816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6324096 627344  51560 S  14.0  8.2   0:47.80 java
+
+top - 17:32:18 up  2:47,  4 users,  load average: 2.73, 2.56, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.1 us,  1.7 sy,  0.0 ni, 83.4 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  2475040 free,  2647164 used,  2552084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4420816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6324096 627444  51560 S  56.0  8.2   0:48.08 java
+
+top - 17:32:19 up  2:47,  4 users,  load average: 2.73, 2.56, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.8 us,  2.5 sy,  0.0 ni, 92.7 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  2475040 free,  2647164 used,  2552084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4420816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6324096 627472  51560 S  10.0  8.2   0:48.13 java
+
+top - 17:32:19 up  2:47,  4 users,  load average: 2.73, 2.56, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.9 us,  1.2 sy,  0.0 ni, 86.9 id,  0.5 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,  2475040 free,  2647164 used,  2552084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4420816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6324236 627472  51560 S  52.0  8.2   0:48.39 java
+
+top - 17:32:20 up  2:47,  4 users,  load average: 2.59, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.7 us,  1.0 sy,  0.0 ni, 87.6 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  2475040 free,  2647164 used,  2552084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4420816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6324236 627472  51560 S   9.8  8.2   0:48.44 java
+
+top - 17:32:20 up  2:47,  4 users,  load average: 2.59, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.2 us,  2.8 sy,  0.0 ni, 71.5 id,  0.2 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  2475040 free,  2647164 used,  2552084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4420816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6412588 649476  52608 S 152.0  8.5   0:49.20 java
+
+top - 17:32:21 up  2:47,  4 users,  load average: 2.59, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.2 us,  1.7 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  2461624 free,  2669192 used,  2543472 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4407412 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6416544 655700  52984 S 150.0  8.5   0:49.95 java
+
+top - 17:32:21 up  2:47,  4 users,  load average: 2.59, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 69.9 us,  1.8 sy,  0.0 ni, 27.8 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,  2461624 free,  2669192 used,  2543472 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4407412 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6416544 657236  52984 S 324.0  8.6   0:51.57 java
+
+top - 17:32:22 up  2:48,  4 users,  load average: 2.59, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.3 us,  1.2 sy,  0.0 ni, 73.5 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  2461624 free,  2669192 used,  2543472 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4407412 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6416544 657320  52984 S  18.0  8.6   0:51.66 java
+
+top - 17:32:22 up  2:48,  4 users,  load average: 2.59, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 41.3 us,  3.2 sy,  0.0 ni, 53.7 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  2461624 free,  2669192 used,  2543472 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4407412 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6416544 657404  53028 S  48.0  8.6   0:51.90 java
+
+top - 17:32:23 up  2:48,  4 users,  load average: 2.59, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 35.8 us,  4.2 sy,  0.0 ni, 57.5 id,  0.5 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  2461624 free,  2669192 used,  2543472 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4407412 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6416544 657500  53028 S  32.0  8.6   0:52.06 java
+
+top - 17:32:23 up  2:48,  4 users,  load average: 2.59, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.7 us,  2.0 sy,  0.0 ni, 61.6 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  2461624 free,  2669192 used,  2543472 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4407412 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6416544 657672  53028 S  33.3  8.6   0:52.23 java
+
+top - 17:32:24 up  2:48,  4 users,  load average: 2.59, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.3 us,  4.2 sy,  0.0 ni, 60.7 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  2381728 free,  2746204 used,  2546356 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4327532 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6416544 657672  53028 S  64.0  8.6   0:52.55 java
+
+top - 17:32:24 up  2:48,  4 users,  load average: 2.59, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.8 us,  3.9 sy,  0.0 ni, 80.8 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  2381728 free,  2746204 used,  2546356 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4327532 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6416544 657788  53028 S  16.0  8.6   0:52.63 java
+
+top - 17:32:25 up  2:48,  4 users,  load average: 2.62, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.3 us,  4.2 sy,  0.0 ni, 73.8 id,  0.7 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  2381728 free,  2746204 used,  2546356 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4327532 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6416544 657844  53028 S  24.0  8.6   0:52.75 java
+
+top - 17:32:25 up  2:48,  4 users,  load average: 2.62, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.3 us,  3.0 sy,  0.0 ni, 77.0 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  2381728 free,  2746204 used,  2546356 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4327532 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6416544 657844  53028 S  48.0  8.6   0:52.99 java
+
+top - 17:32:26 up  2:48,  4 users,  load average: 2.62, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.0 us,  3.7 sy,  0.0 ni, 81.1 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  2381728 free,  2746204 used,  2546356 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4327532 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 657920  53028 S  14.0  8.6   0:53.06 java
+
+top - 17:32:26 up  2:48,  4 users,  load average: 2.62, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.5 us,  2.9 sy,  0.0 ni, 84.6 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  2381728 free,  2746204 used,  2546356 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4327532 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 658056  53028 S  10.0  8.6   0:53.11 java
+
+top - 17:32:27 up  2:48,  4 users,  load average: 2.62, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  2.9 sy,  0.0 ni, 82.2 id,  0.0 wa,  0.0 hi,  2.4 si,  0.0 st
+KiB Mem :  7674288 total,  2043144 free,  3078456 used,  2552688 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3988960 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 658564  53028 S  16.0  8.6   0:53.19 java
+
+top - 17:32:27 up  2:48,  4 users,  load average: 2.62, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.5 us,  2.0 sy,  0.0 ni, 80.0 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  2043144 free,  3078456 used,  2552688 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3988960 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 658844  53028 S  37.3  8.6   0:53.38 java
+
+top - 17:32:28 up  2:48,  4 users,  load average: 2.62, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.4 us,  4.2 sy,  0.0 ni, 80.4 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  2043144 free,  3078456 used,  2552688 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3988960 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 658936  53028 S  28.0  8.6   0:53.52 java
+
+top - 17:32:28 up  2:48,  4 users,  load average: 2.62, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.8 us,  3.5 sy,  0.0 ni, 79.9 id,  0.5 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  2043144 free,  3078456 used,  2552688 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3988960 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 658936  53028 S  18.0  8.6   0:53.61 java
+
+top - 17:32:29 up  2:48,  4 users,  load average: 2.62, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.5 us,  2.2 sy,  0.0 ni, 78.2 id,  0.0 wa,  0.0 hi,  4.0 si,  0.0 st
+KiB Mem :  7674288 total,  2043144 free,  3078456 used,  2552688 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3988960 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 659096  53028 S  22.0  8.6   0:53.72 java
+
+top - 17:32:29 up  2:48,  4 users,  load average: 2.62, 2.54, 2.28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.1 us,  2.7 sy,  0.0 ni, 80.4 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  2043144 free,  3078456 used,  2552688 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3988960 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 659096  53028 S  22.0  8.6   0:53.83 java
+
+top - 17:32:30 up  2:48,  4 users,  load average: 2.81, 2.59, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.9 us,  2.5 sy,  0.0 ni, 75.9 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1919308 free,  3200332 used,  2554648 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3865124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 659352  53028 S  66.0  8.6   0:54.16 java
+
+top - 17:32:30 up  2:48,  4 users,  load average: 2.81, 2.59, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.7 us,  3.5 sy,  0.0 ni, 71.0 id,  0.5 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1919308 free,  3200332 used,  2554648 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3865124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 659436  53028 S  44.0  8.6   0:54.38 java
+
+top - 17:32:31 up  2:48,  4 users,  load average: 2.81, 2.59, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.5 us,  3.7 sy,  0.0 ni, 77.8 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1919308 free,  3200332 used,  2554648 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3865124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 659436  53028 S  22.0  8.6   0:54.49 java
+
+top - 17:32:31 up  2:48,  4 users,  load average: 2.81, 2.59, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.6 us,  3.8 sy,  0.0 ni, 68.0 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1919308 free,  3200332 used,  2554648 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3865124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 659656  53092 S  42.0  8.6   0:54.70 java
+
+top - 17:32:32 up  2:48,  4 users,  load average: 2.81, 2.59, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.1 us,  4.2 sy,  0.0 ni, 76.2 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1919308 free,  3200332 used,  2554648 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3865124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 659788  53092 S  39.2  8.6   0:54.90 java
+
+top - 17:32:32 up  2:48,  4 users,  load average: 2.81, 2.59, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.1 us,  2.3 sy,  0.0 ni, 70.4 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1919308 free,  3200332 used,  2554648 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3865124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6418592 659788  53092 S 118.0  8.6   0:55.49 java
+
+top - 17:32:33 up  2:48,  4 users,  load average: 2.81, 2.59, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 38.1 us,  4.0 sy,  0.0 ni, 56.6 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1680988 free,  3431564 used,  2561736 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3626944 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 660068  53092 S 182.0  8.6   0:56.40 java
+
+top - 17:32:33 up  2:48,  4 users,  load average: 2.81, 2.59, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 35.8 us,  3.2 sy,  0.0 ni, 58.2 id,  0.5 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1680988 free,  3431564 used,  2561736 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3626944 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 660372  53092 S 192.0  8.6   0:57.36 java
+
+top - 17:32:34 up  2:48,  4 users,  load average: 2.81, 2.59, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.3 us,  4.0 sy,  0.0 ni, 66.9 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  1680988 free,  3431564 used,  2561736 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3626944 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 660564  53092 S 136.0  8.6   0:58.04 java
+
+top - 17:32:34 up  2:48,  4 users,  load average: 2.81, 2.59, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.8 us,  2.6 sy,  0.0 ni, 70.7 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  1680988 free,  3431564 used,  2561736 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3626944 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 660732  53092 S 108.0  8.6   0:58.58 java
+
+top - 17:32:35 up  2:48,  4 users,  load average: 2.75, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 35.4 us,  2.2 sy,  0.0 ni, 61.1 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  1680988 free,  3431564 used,  2561736 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3626944 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 660968  53092 S 180.0  8.6   0:59.48 java
+
+top - 17:32:35 up  2:48,  4 users,  load average: 2.75, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.9 us,  2.3 sy,  0.0 ni, 70.1 id,  0.5 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1680988 free,  3431564 used,  2561736 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3626944 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 660968  53092 S 110.0  8.6   1:00.03 java
+
+top - 17:32:36 up  2:48,  4 users,  load average: 2.75, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 41.2 us,  1.8 sy,  0.0 ni, 55.3 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1677964 free,  3431864 used,  2564460 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3623932 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 661192  53092 S 231.4  8.6   1:01.21 java
+
+top - 17:32:36 up  2:48,  4 users,  load average: 2.75, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.2 us,  2.7 sy,  0.0 ni, 65.1 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  1677964 free,  3431864 used,  2564460 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3623932 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 661468  53092 S 160.0  8.6   1:02.01 java
+
+top - 17:32:37 up  2:48,  4 users,  load average: 2.75, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 49.8 us,  2.7 sy,  0.0 ni, 44.6 id,  0.2 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1677964 free,  3431864 used,  2564460 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3623932 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 661496  53156 S 316.0  8.6   1:03.59 java
+
+top - 17:32:37 up  2:48,  4 users,  load average: 2.75, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.8 us,  3.2 sy,  0.0 ni, 55.0 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1677964 free,  3431864 used,  2564460 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3623932 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 661496  53156 S 236.0  8.6   1:04.77 java
+
+top - 17:32:38 up  2:48,  4 users,  load average: 2.75, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.9 us,  1.3 sy,  0.0 ni, 68.8 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1677964 free,  3431864 used,  2564460 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3623932 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 661648  53156 S 166.0  8.6   1:05.60 java
+
+top - 17:32:38 up  2:48,  4 users,  load average: 2.75, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.8 us,  2.2 sy,  0.0 ni, 55.5 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1677964 free,  3431864 used,  2564460 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3623932 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 662192  53156 S 260.0  8.6   1:06.90 java
+
+top - 17:32:39 up  2:48,  4 users,  load average: 2.75, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.7 us,  1.7 sy,  0.0 ni, 75.6 id,  0.5 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1676452 free,  3433304 used,  2564532 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3622500 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 662200  53156 S 110.0  8.6   1:07.45 java
+
+top - 17:32:39 up  2:48,  4 users,  load average: 2.75, 2.58, 2.29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.1 us,  2.5 sy,  0.0 ni, 66.2 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1676452 free,  3433304 used,  2564532 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3622500 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 662356  53156 S 170.0  8.6   1:08.30 java
+
+top - 17:32:40 up  2:48,  4 users,  load average: 2.77, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.5 us,  2.2 sy,  0.0 ni, 72.2 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1676452 free,  3433304 used,  2564532 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3622500 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 662356  53156 S 110.0  8.6   1:08.85 java
+
+top - 17:32:40 up  2:48,  4 users,  load average: 2.77, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.1 us,  2.8 sy,  0.0 ni, 67.1 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1676452 free,  3433304 used,  2564532 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3622500 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 662692  53156 S 142.0  8.6   1:09.56 java
+
+top - 17:32:41 up  2:48,  4 users,  load average: 2.77, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 38.4 us,  3.0 sy,  0.0 ni, 56.3 id,  0.0 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,  1676452 free,  3433304 used,  2564532 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3622500 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 662832  53156 S 188.2  8.6   1:10.52 java
+
+top - 17:32:41 up  2:48,  4 users,  load average: 2.77, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.6 us,  2.3 sy,  0.0 ni, 62.9 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1676452 free,  3433304 used,  2564532 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3622500 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 662900  53156 S 196.0  8.6   1:11.50 java
+
+top - 17:32:42 up  2:48,  4 users,  load average: 2.77, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 42.5 us,  3.5 sy,  0.0 ni, 52.8 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  1673232 free,  3434688 used,  2566368 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3619280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 663288  53156 S 228.0  8.6   1:12.64 java
+
+top - 17:32:42 up  2:48,  4 users,  load average: 2.77, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.9 us,  4.2 sy,  0.0 ni, 61.6 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1673232 free,  3434688 used,  2566368 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3619280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 663372  53156 S 144.0  8.6   1:13.36 java
+
+top - 17:32:43 up  2:48,  4 users,  load average: 2.77, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 64.4 us,  5.0 sy,  0.0 ni, 30.3 id,  0.0 wa,  0.0 hi,  0.3 si,  0.0 st
+KiB Mem :  7674288 total,  1673232 free,  3434688 used,  2566368 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3619280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 663864  53156 S 392.0  8.7   1:15.32 java
+
+top - 17:32:43 up  2:48,  4 users,  load average: 2.77, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 62.4 us,  5.1 sy,  0.0 ni, 32.0 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,  1673232 free,  3434688 used,  2566368 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3619280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 663940  53156 S 388.0  8.7   1:17.26 java
+
+top - 17:32:44 up  2:48,  4 users,  load average: 2.77, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.8 us,  4.0 sy,  0.0 ni, 60.4 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  1673232 free,  3434688 used,  2566368 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3619280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664032  53156 S 172.0  8.7   1:18.12 java
+
+top - 17:32:44 up  2:48,  4 users,  load average: 2.77, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.6 us,  3.7 sy,  0.0 ni, 73.3 id,  0.0 wa,  0.0 hi,  4.4 si,  0.0 st
+KiB Mem :  7674288 total,  1673232 free,  3434688 used,  2566368 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3619280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664212  53156 S  64.0  8.7   1:18.44 java
+
+top - 17:32:45 up  2:48,  4 users,  load average: 2.71, 2.57, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.5 us,  2.7 sy,  0.0 ni, 76.5 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1665908 free,  3435220 used,  2573160 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3611968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664224  53156 S  54.0  8.7   1:18.71 java
+
+top - 17:32:45 up  2:48,  4 users,  load average: 2.71, 2.57, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.5 us,  1.9 sy,  0.0 ni, 75.4 id,  0.0 wa,  0.0 hi,  3.1 si,  0.0 st
+KiB Mem :  7674288 total,  1665908 free,  3435220 used,  2573160 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3611968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664416  53156 S  76.0  8.7   1:19.09 java
+
+top - 17:32:46 up  2:48,  4 users,  load average: 2.71, 2.57, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.5 us,  3.1 sy,  0.0 ni, 69.7 id,  0.0 wa,  0.0 hi,  3.6 si,  0.0 st
+KiB Mem :  7674288 total,  1665908 free,  3435220 used,  2573160 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3611968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664416  53156 S  94.1  8.7   1:19.57 java
+
+top - 17:32:46 up  2:48,  4 users,  load average: 2.71, 2.57, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.7 us,  3.2 sy,  0.0 ni, 74.1 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1665908 free,  3435220 used,  2573160 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3611968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664416  53156 S  70.0  8.7   1:19.92 java
+
+top - 17:32:47 up  2:48,  4 users,  load average: 2.71, 2.57, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.3 us,  2.2 sy,  0.0 ni, 70.5 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  1665908 free,  3435220 used,  2573160 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3611968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664480  53156 S 110.0  8.7   1:20.47 java
+
+top - 17:32:47 up  2:48,  4 users,  load average: 2.71, 2.57, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.6 us,  3.5 sy,  0.0 ni, 81.0 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1665908 free,  3435220 used,  2573160 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3611968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664480  53156 S  16.0  8.7   1:20.55 java
+
+top - 17:32:48 up  2:48,  4 users,  load average: 2.71, 2.57, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.7 us,  3.0 sy,  0.0 ni, 74.1 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1661900 free,  3435668 used,  2576720 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3607964 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664480  53156 S  22.0  8.7   1:20.66 java
+
+top - 17:32:48 up  2:48,  4 users,  load average: 2.71, 2.57, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.3 us,  3.8 sy,  0.0 ni, 62.7 id,  0.0 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,  1661900 free,  3435668 used,  2576720 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3607964 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664480  53156 S 102.0  8.7   1:21.17 java
+
+top - 17:32:49 up  2:48,  4 users,  load average: 2.71, 2.57, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 43.5 us,  3.0 sy,  0.0 ni, 51.1 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1661900 free,  3435668 used,  2576720 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3607964 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664556  53156 S 158.0  8.7   1:21.96 java
+
+top - 17:32:49 up  2:48,  4 users,  load average: 2.71, 2.57, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.4 us,  3.8 sy,  0.0 ni, 68.0 id,  0.0 wa,  0.0 hi,  2.8 si,  0.0 st
+KiB Mem :  7674288 total,  1661900 free,  3435668 used,  2576720 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3607964 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664644  53156 S  46.0  8.7   1:22.19 java
+
+top - 17:32:50 up  2:48,  4 users,  load average: 2.73, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.6 us,  2.5 sy,  0.0 ni, 69.4 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1661900 free,  3435668 used,  2576720 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3607964 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 664644  53156 S 114.0  8.7   1:22.76 java
+
+top - 17:32:50 up  2:48,  4 users,  load average: 2.73, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 42.2 us,  4.5 sy,  0.0 ni, 52.2 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1661900 free,  3435668 used,  2576720 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3607964 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 665048  53156 S 192.2  8.7   1:23.74 java
+
+top - 17:32:51 up  2:48,  4 users,  load average: 2.73, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.8 us,  3.2 sy,  0.0 ni, 66.7 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  1650844 free,  3436084 used,  2587360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3596920 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 665048  53156 S 112.0  8.7   1:24.30 java
+
+top - 17:32:51 up  2:48,  4 users,  load average: 2.73, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.9 us,  3.0 sy,  0.0 ni, 54.0 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1650844 free,  3436084 used,  2587360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3596920 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 665048  53156 S 156.0  8.7   1:25.08 java
+
+top - 17:32:52 up  2:48,  4 users,  load average: 2.73, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.4 us,  4.5 sy,  0.0 ni, 53.6 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1650844 free,  3436084 used,  2587360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3596920 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 665372  53156 S 160.0  8.7   1:25.88 java
+
+top - 17:32:52 up  2:48,  4 users,  load average: 2.73, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 35.6 us,  4.0 sy,  0.0 ni, 59.8 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,  1650844 free,  3436084 used,  2587360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3596920 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 665424  53156 S 172.0  8.7   1:26.74 java
+
+top - 17:32:53 up  2:48,  4 users,  load average: 2.73, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.9 us,  3.5 sy,  0.0 ni, 63.6 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1650844 free,  3436084 used,  2587360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3596920 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 665492  53156 S 120.0  8.7   1:27.34 java
+
+top - 17:32:53 up  2:48,  4 users,  load average: 2.73, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 38.9 us,  3.5 sy,  0.0 ni, 56.1 id,  0.2 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  1650844 free,  3436084 used,  2587360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3596920 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 665492  53156 S 158.0  8.7   1:28.13 java
+
+top - 17:32:54 up  2:48,  4 users,  load average: 2.73, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.7 us,  4.7 sy,  0.0 ni, 59.5 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1642496 free,  3435932 used,  2595860 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3588580 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 665704  53156 S 164.0  8.7   1:28.95 java
+
+top - 17:32:54 up  2:48,  4 users,  load average: 2.73, 2.58, 2.30
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 35.0 us,  3.7 sy,  0.0 ni, 60.8 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,  1642496 free,  3435932 used,  2595860 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3588580 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 665776  53156 S 154.0  8.7   1:29.72 java
+
+top - 17:32:55 up  2:48,  4 users,  load average: 2.83, 2.60, 2.31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.6 us,  3.3 sy,  0.0 ni, 64.9 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1642496 free,  3435932 used,  2595860 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3588580 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 665776  53156 S 107.8  8.7   1:30.27 java
+
+top - 17:32:55 up  2:48,  4 users,  load average: 2.83, 2.60, 2.31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 48.7 us,  3.8 sy,  0.0 ni, 46.7 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  1642496 free,  3435932 used,  2595860 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3588580 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 665952  53156 S 190.0  8.7   1:31.22 java
+
+top - 17:32:56 up  2:48,  4 users,  load average: 2.83, 2.60, 2.31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 37.8 us,  3.5 sy,  0.0 ni, 56.4 id,  0.0 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,  1642496 free,  3435932 used,  2595860 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3588580 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 665952  53156 S 128.0  8.7   1:31.86 java
+
+top - 17:32:56 up  2:48,  4 users,  load average: 2.83, 2.60, 2.31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 36.0 us,  4.0 sy,  0.0 ni, 58.5 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1642496 free,  3435932 used,  2595860 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3588580 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 666216  53156 S 178.0  8.7   1:32.75 java
+
+top - 17:32:57 up  2:48,  4 users,  load average: 2.83, 2.60, 2.31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 37.2 us,  2.8 sy,  0.0 ni, 58.7 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1629936 free,  3437244 used,  2607108 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3576016 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 666216  53156 S 208.0  8.7   1:33.79 java
+
+top - 17:32:57 up  2:48,  4 users,  load average: 2.83, 2.60, 2.31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.0 us,  2.7 sy,  0.0 ni, 67.5 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  1629936 free,  3437244 used,  2607108 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3576016 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 666216  53156 S 134.0  8.7   1:34.46 java
+
+top - 17:32:58 up  2:48,  4 users,  load average: 2.83, 2.60, 2.31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.2 us,  2.5 sy,  0.0 ni, 62.8 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,  1629936 free,  3437244 used,  2607108 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3576016 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 666216  53156 S 180.0  8.7   1:35.36 java
+
+top - 17:32:58 up  2:48,  4 users,  load average: 2.83, 2.60, 2.31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.5 us,  3.8 sy,  0.0 ni, 68.2 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1629936 free,  3437244 used,  2607108 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3576016 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 709048  53156 S 118.0  9.2   1:35.95 java
+
+top - 17:32:59 up  2:48,  4 users,  load average: 2.83, 2.60, 2.31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.6 us,  3.0 sy,  0.0 ni, 61.2 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1629936 free,  3437244 used,  2607108 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3576016 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 709576  53156 S 152.0  9.2   1:36.71 java
+
+top - 17:32:59 up  2:48,  4 users,  load average: 2.83, 2.60, 2.31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.8 us,  2.2 sy,  0.0 ni, 73.0 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1629936 free,  3437244 used,  2607108 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3576016 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 709576  53156 S 108.0  9.2   1:37.25 java
+
+top - 17:33:00 up  2:48,  4 users,  load average: 3.17, 2.68, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.3 us,  2.3 sy,  0.0 ni, 56.7 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  1584300 free,  3482320 used,  2607668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3530392 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710004  53156 S 227.5  9.3   1:38.41 java
+
+top - 17:33:00 up  2:48,  4 users,  load average: 3.17, 2.68, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 39.8 us,  3.2 sy,  0.0 ni, 55.3 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  1584300 free,  3482320 used,  2607668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3530392 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710108  53156 S 230.0  9.3   1:39.56 java
+
+top - 17:33:01 up  2:48,  4 users,  load average: 3.17, 2.68, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 41.4 us,  2.3 sy,  0.0 ni, 53.5 id,  1.3 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1584300 free,  3482320 used,  2607668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3530392 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 710248  53156 S 222.0  9.3   1:40.67 java
+
+top - 17:33:01 up  2:48,  4 users,  load average: 3.17, 2.68, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.9 us,  2.3 sy,  0.0 ni, 65.6 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1584300 free,  3482320 used,  2607668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3530392 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 710248  53156 S 134.0  9.3   1:41.34 java
+
+top - 17:33:02 up  2:48,  4 users,  load average: 3.17, 2.68, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.4 us,  2.3 sy,  0.0 ni, 73.6 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1584300 free,  3482320 used,  2607668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3530392 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 710248  53156 S 124.0  9.3   1:41.96 java
+
+top - 17:33:02 up  2:48,  4 users,  load average: 3.17, 2.68, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.9 us,  2.0 sy,  0.0 ni, 62.8 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1584300 free,  3482320 used,  2607668 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3530392 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 710400  53156 S 214.0  9.3   1:43.03 java
+
+top - 17:33:03 up  2:48,  4 users,  load average: 3.17, 2.68, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.9 us,  2.9 sy,  0.0 ni, 77.2 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  1583156 free,  3483048 used,  2608084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3529252 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 710404  53156 S  54.0  9.3   1:43.30 java
+
+top - 17:33:03 up  2:48,  4 users,  load average: 3.17, 2.68, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.5 us,  2.0 sy,  0.0 ni, 73.6 id,  0.0 wa,  0.0 hi,  3.9 si,  0.0 st
+KiB Mem :  7674288 total,  1583156 free,  3483048 used,  2608084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3529252 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 710404  53156 S  76.0  9.3   1:43.68 java
+
+top - 17:33:04 up  2:48,  4 users,  load average: 3.17, 2.68, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.2 us,  2.7 sy,  0.0 ni, 79.3 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1583156 free,  3483048 used,  2608084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3529252 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 710404  53156 S  54.0  9.3   1:43.95 java
+
+top - 17:33:04 up  2:48,  4 users,  load average: 3.17, 2.68, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.9 us,  3.4 sy,  0.0 ni, 64.7 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1583156 free,  3483048 used,  2608084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3529252 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 710488  53156 S 140.0  9.3   1:44.65 java
+
+top - 17:33:05 up  2:48,  4 users,  load average: 3.15, 2.68, 2.34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.8 us,  2.7 sy,  0.0 ni, 79.8 id,  0.0 wa,  0.0 hi,  3.7 si,  0.0 st
+KiB Mem :  7674288 total,  1583156 free,  3483048 used,  2608084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3529252 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 710436  53156 S  25.5  9.3   1:44.78 java
+
+top - 17:33:05 up  2:48,  4 users,  load average: 3.15, 2.68, 2.34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.8 us,  3.5 sy,  0.0 ni, 69.3 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1583156 free,  3483048 used,  2608084 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3529252 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 710436  53156 S  14.0  9.3   1:44.85 java
+
+top - 17:33:06 up  2:48,  4 users,  load average: 3.15, 2.68, 2.34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.9 us,  4.8 sy,  0.0 ni, 65.6 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  1573060 free,  3482904 used,  2618324 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3519152 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 710436  53156 S  88.0  9.3   1:45.29 java
+
+top - 17:33:06 up  2:48,  4 users,  load average: 3.15, 2.68, 2.34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.4 us,  3.5 sy,  0.0 ni, 63.3 id,  0.5 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1573060 free,  3482904 used,  2618324 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3519152 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710468  53156 S 140.0  9.3   1:45.99 java
+
+top - 17:33:07 up  2:48,  4 users,  load average: 3.15, 2.68, 2.34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.5 us,  3.9 sy,  0.0 ni, 59.4 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1573060 free,  3482904 used,  2618324 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3519152 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710468  53156 S  74.0  9.3   1:46.36 java
+
+top - 17:33:07 up  2:48,  4 users,  load average: 3.15, 2.68, 2.34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 37.8 us,  4.0 sy,  0.0 ni, 57.1 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1573060 free,  3482904 used,  2618324 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3519152 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710468  53156 S 162.0  9.3   1:47.17 java
+
+top - 17:33:08 up  2:48,  4 users,  load average: 3.15, 2.68, 2.34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.4 us,  3.0 sy,  0.0 ni, 66.3 id,  0.0 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,  1573060 free,  3482904 used,  2618324 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3519152 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710468  53156 S  38.0  9.3   1:47.36 java
+
+top - 17:33:08 up  2:48,  4 users,  load average: 3.15, 2.68, 2.34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.1 us,  4.6 sy,  0.0 ni, 68.9 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1573060 free,  3482904 used,  2618324 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3519152 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710480  53156 S  74.0  9.3   1:47.73 java
+
+top - 17:33:09 up  2:48,  4 users,  load average: 3.15, 2.68, 2.34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.2 us,  2.0 sy,  0.0 ni, 75.6 id,  0.0 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,  1563712 free,  3483536 used,  2627040 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3509812 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  44.0  9.3   1:47.95 java
+
+top - 17:33:09 up  2:48,  4 users,  load average: 3.15, 2.68, 2.34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.3 us,  3.2 sy,  0.0 ni, 81.2 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1563712 free,  3483536 used,  2627040 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3509812 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  14.0  9.3   1:48.02 java
+
+top - 17:33:10 up  2:48,  4 users,  load average: 2.98, 2.66, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.1 us,  3.5 sy,  0.0 ni, 66.9 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1563712 free,  3483536 used,  2627040 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3509812 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  13.7  9.3   1:48.09 java
+
+top - 17:33:10 up  2:48,  4 users,  load average: 2.98, 2.66, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.3 us,  3.7 sy,  0.0 ni, 81.3 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1563712 free,  3483536 used,  2627040 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3509812 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  10.0  9.3   1:48.14 java
+
+top - 17:33:11 up  2:48,  4 users,  load average: 2.98, 2.66, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.8 us,  2.7 sy,  0.0 ni, 79.8 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1563712 free,  3483536 used,  2627040 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3509812 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  10.0  9.3   1:48.19 java
+
+top - 17:33:11 up  2:48,  4 users,  load average: 2.98, 2.66, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.8 us,  2.7 sy,  0.0 ni, 77.8 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1563712 free,  3483536 used,  2627040 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3509812 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  12.0  9.3   1:48.25 java
+
+top - 17:33:12 up  2:48,  4 users,  load average: 2.98, 2.66, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.6 us,  3.5 sy,  0.0 ni, 80.4 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1550348 free,  3494108 used,  2629832 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496460 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  28.0  9.3   1:48.39 java
+
+top - 17:33:12 up  2:48,  4 users,  load average: 2.98, 2.66, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.3 us,  3.0 sy,  0.0 ni, 82.4 id,  0.0 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,  1550348 free,  3494108 used,  2629832 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496460 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  10.0  9.3   1:48.44 java
+
+top - 17:33:13 up  2:48,  4 users,  load average: 2.98, 2.66, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  3.3 sy,  0.0 ni, 81.8 id,  0.0 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,  1550348 free,  3494108 used,  2629832 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496460 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  18.0  9.3   1:48.53 java
+
+top - 17:33:13 up  2:48,  4 users,  load average: 2.98, 2.66, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.8 us,  2.7 sy,  0.0 ni, 78.0 id,  0.0 wa,  0.0 hi,  4.4 si,  0.0 st
+KiB Mem :  7674288 total,  1550348 free,  3494108 used,  2629832 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496460 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  20.0  9.3   1:48.63 java
+
+top - 17:33:14 up  2:48,  4 users,  load average: 2.98, 2.66, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.9 us,  3.0 sy,  0.0 ni, 80.6 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1550348 free,  3494108 used,  2629832 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496460 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  11.8  9.3   1:48.69 java
+
+top - 17:33:14 up  2:48,  4 users,  load average: 2.98, 2.66, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.9 us,  3.0 sy,  0.0 ni, 80.2 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1550348 free,  3494108 used,  2629832 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496460 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  22.0  9.3   1:48.80 java
+
+top - 17:33:15 up  2:48,  4 users,  load average: 2.90, 2.64, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.4 us,  2.7 sy,  0.0 ni, 78.4 id,  0.0 wa,  0.0 hi,  3.5 si,  0.0 st
+KiB Mem :  7674288 total,  1549972 free,  3493136 used,  2631180 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496084 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  20.0  9.3   1:48.90 java
+
+top - 17:33:15 up  2:48,  4 users,  load average: 2.90, 2.64, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.0 us,  2.5 sy,  0.0 ni, 78.3 id,  0.2 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1549972 free,  3493136 used,  2631180 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496084 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  24.0  9.3   1:49.02 java
+
+top - 17:33:16 up  2:48,  4 users,  load average: 2.90, 2.64, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.8 us,  2.8 sy,  0.0 ni, 81.6 id,  0.0 wa,  0.0 hi,  2.8 si,  0.0 st
+KiB Mem :  7674288 total,  1549972 free,  3493136 used,  2631180 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496084 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  16.0  9.3   1:49.10 java
+
+top - 17:33:16 up  2:48,  4 users,  load average: 2.90, 2.64, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.5 us,  3.9 sy,  0.0 ni, 73.4 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1549972 free,  3493136 used,  2631180 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496084 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  14.0  9.3   1:49.17 java
+
+top - 17:33:17 up  2:48,  4 users,  load average: 2.90, 2.64, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.1 us,  3.0 sy,  0.0 ni, 75.4 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1549972 free,  3493136 used,  2631180 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496084 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710532  53156 S  68.0  9.3   1:49.51 java
+
+top - 17:33:17 up  2:48,  4 users,  load average: 2.90, 2.64, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.9 us,  2.7 sy,  0.0 ni, 81.1 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1549972 free,  3493136 used,  2631180 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3496084 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710676  53156 S  20.0  9.3   1:49.61 java
+
+top - 17:33:18 up  2:48,  4 users,  load average: 2.90, 2.64, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.6 us,  2.5 sy,  0.0 ni, 70.9 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1542136 free,  3499540 used,  2632612 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488264 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710676  53156 S 118.0  9.3   1:50.20 java
+
+top - 17:33:18 up  2:48,  4 users,  load average: 2.90, 2.64, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.2 us,  2.0 sy,  0.0 ni, 76.5 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1542136 free,  3499540 used,  2632612 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488264 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710676  53156 S  62.7  9.3   1:50.52 java
+
+top - 17:33:19 up  2:48,  4 users,  load average: 2.90, 2.64, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.0 us,  2.5 sy,  0.0 ni, 75.3 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1542136 free,  3499540 used,  2632612 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488264 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710676  53156 S  66.0  9.3   1:50.85 java
+
+top - 17:33:19 up  2:48,  4 users,  load average: 2.90, 2.64, 2.33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.9 us,  3.7 sy,  0.0 ni, 70.6 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1542136 free,  3499540 used,  2632612 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488264 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710676  53156 S 112.0  9.3   1:51.41 java
+
+top - 17:33:20 up  2:48,  4 users,  load average: 3.23, 2.72, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.1 us,  3.2 sy,  0.0 ni, 64.4 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  1542136 free,  3499540 used,  2632612 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488264 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710676  53156 S 154.0  9.3   1:52.18 java
+
+top - 17:33:20 up  2:48,  4 users,  load average: 3.23, 2.72, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.5 us,  2.5 sy,  0.0 ni, 71.7 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1542136 free,  3499540 used,  2632612 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488264 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710768  53156 S 118.0  9.3   1:52.77 java
+
+top - 17:33:21 up  2:48,  4 users,  load average: 3.23, 2.72, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.9 us,  2.8 sy,  0.0 ni, 54.3 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1541924 free,  3499856 used,  2632508 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488052 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710892  53156 S 172.0  9.3   1:53.63 java
+
+top - 17:33:21 up  2:48,  4 users,  load average: 3.23, 2.72, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.1 us,  3.0 sy,  0.0 ni, 68.5 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1541924 free,  3499856 used,  2632508 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488052 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710892  53156 S 126.0  9.3   1:54.26 java
+
+top - 17:33:22 up  2:49,  4 users,  load average: 3.23, 2.72, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.8 us,  3.5 sy,  0.0 ni, 60.7 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1541924 free,  3499856 used,  2632508 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488052 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710892  53156 S 166.0  9.3   1:55.09 java
+
+top - 17:33:22 up  2:49,  4 users,  load average: 3.23, 2.72, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 54.0 us,  5.2 sy,  0.0 ni, 38.9 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1541924 free,  3499856 used,  2632508 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488052 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710892  53156 S 108.0  9.3   1:55.63 java
+
+top - 17:33:23 up  2:49,  4 users,  load average: 3.23, 2.72, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 38.9 us,  4.0 sy,  0.0 ni, 54.7 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1541924 free,  3499856 used,  2632508 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488052 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 710944  53156 S 198.0  9.3   1:56.62 java
+
+top - 17:33:23 up  2:49,  4 users,  load average: 3.23, 2.72, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 42.5 us,  3.5 sy,  0.0 ni, 53.2 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  1541924 free,  3499856 used,  2632508 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3488052 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711248  53156 S 184.3  9.3   1:57.56 java
+
+top - 17:33:24 up  2:49,  4 users,  load average: 3.23, 2.72, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.9 us,  3.7 sy,  0.0 ni, 59.7 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1522992 free,  3499536 used,  2651760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3469124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711248  53156 S 150.0  9.3   1:58.31 java
+
+top - 17:33:24 up  2:49,  4 users,  load average: 3.23, 2.72, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.6 us,  3.5 sy,  0.0 ni, 69.1 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1522992 free,  3499536 used,  2651760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3469124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711332  53156 S  70.0  9.3   1:58.66 java
+
+top - 17:33:25 up  2:49,  4 users,  load average: 3.05, 2.69, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.5 us,  3.8 sy,  0.0 ni, 66.5 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1522992 free,  3499536 used,  2651760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3469124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711332  53156 S  52.0  9.3   1:58.92 java
+
+top - 17:33:25 up  2:49,  4 users,  load average: 3.05, 2.69, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.4 us,  4.7 sy,  0.2 ni, 62.0 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  1522992 free,  3499536 used,  2651760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3469124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711332  53156 S 104.0  9.3   1:59.44 java
+
+top - 17:33:26 up  2:49,  4 users,  load average: 3.05, 2.69, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.6 us,  4.7 sy,  0.0 ni, 69.4 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  1522992 free,  3499536 used,  2651760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3469124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711332  53156 S  38.0  9.3   1:59.63 java
+
+top - 17:33:26 up  2:49,  4 users,  load average: 3.05, 2.69, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.4 us,  3.7 sy,  0.0 ni, 70.8 id,  0.2 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  1522992 free,  3499536 used,  2651760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3469124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711332  53156 S  28.0  9.3   1:59.77 java
+
+top - 17:33:27 up  2:49,  4 users,  load average: 3.05, 2.69, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.7 us,  5.4 sy,  0.0 ni, 68.9 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  1512924 free,  3500480 used,  2660884 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3459056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711384  53152 S  56.0  9.3   2:00.05 java
+
+top - 17:33:27 up  2:49,  4 users,  load average: 3.05, 2.69, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.8 us,  4.0 sy,  0.0 ni, 74.7 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1512924 free,  3500480 used,  2660884 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3459056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711384  53152 S  34.0  9.3   2:00.22 java
+
+top - 17:33:28 up  2:49,  4 users,  load average: 3.05, 2.69, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.3 us,  4.2 sy,  0.0 ni, 73.8 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1512924 free,  3500480 used,  2660884 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3459056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711384  53152 S  47.1  9.3   2:00.46 java
+
+top - 17:33:28 up  2:49,  4 users,  load average: 3.05, 2.69, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.7 us,  3.7 sy,  0.0 ni, 71.1 id,  0.5 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1512924 free,  3500480 used,  2660884 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3459056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711384  53152 S  52.0  9.3   2:00.72 java
+
+top - 17:33:29 up  2:49,  4 users,  load average: 3.05, 2.69, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.5 us,  3.5 sy,  0.0 ni, 73.8 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1512924 free,  3500480 used,  2660884 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3459056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711384  53152 S  36.0  9.3   2:00.90 java
+
+top - 17:33:29 up  2:49,  4 users,  load average: 3.05, 2.69, 2.35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.2 us,  3.5 sy,  0.0 ni, 68.6 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1512924 free,  3500480 used,  2660884 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3459056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711384  53152 S  36.0  9.3   2:01.08 java
+
+top - 17:33:30 up  2:49,  4 users,  load average: 3.37, 2.76, 2.37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 37.9 us,  4.0 sy,  0.0 ni, 56.1 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1507464 free,  3501008 used,  2665816 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3453612 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711384  53152 S 194.0  9.3   2:02.05 java
+
+top - 17:33:30 up  2:49,  4 users,  load average: 3.37, 2.76, 2.37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.0 us,  4.0 sy,  0.0 ni, 68.1 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1507464 free,  3501008 used,  2665816 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3453612 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711384  53152 S  96.0  9.3   2:02.53 java
+
+top - 17:33:31 up  2:49,  4 users,  load average: 3.37, 2.76, 2.37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.8 us,  3.2 sy,  0.0 ni, 79.6 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,  1507464 free,  3501008 used,  2665816 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3453612 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711384  53152 S  32.0  9.3   2:02.69 java
+
+top - 17:33:31 up  2:49,  4 users,  load average: 3.37, 2.76, 2.37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.0 us,  3.0 sy,  0.0 ni, 76.1 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1507464 free,  3501008 used,  2665816 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3453612 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711628  53152 S  48.0  9.3   2:02.93 java
+
+top - 17:33:32 up  2:49,  4 users,  load average: 3.37, 2.76, 2.37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.3 us,  3.5 sy,  0.0 ni, 75.8 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1507464 free,  3501008 used,  2665816 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3453612 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711628  53152 S  32.0  9.3   2:03.09 java
+
+top - 17:33:32 up  2:49,  4 users,  load average: 3.37, 2.76, 2.37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.5 us,  2.8 sy,  0.0 ni, 81.0 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  1507464 free,  3501008 used,  2665816 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3453612 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711628  53152 S  31.4  9.3   2:03.25 java
+
+top - 17:33:33 up  2:49,  4 users,  load average: 3.37, 2.76, 2.37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.6 us,  3.5 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1504744 free,  3501276 used,  2668268 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3450940 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711628  53152 S  50.0  9.3   2:03.50 java
+
+top - 17:33:33 up  2:49,  4 users,  load average: 3.37, 2.76, 2.37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.1 us,  2.6 sy,  0.0 ni, 74.1 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1504744 free,  3501276 used,  2668268 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3450940 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711628  53152 S  94.0  9.3   2:03.97 java
+
+top - 17:33:34 up  2:49,  4 users,  load average: 3.37, 2.76, 2.37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.4 us,  3.3 sy,  0.0 ni, 68.8 id,  0.3 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1504744 free,  3501276 used,  2668268 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3450940 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711848  53152 S 116.0  9.3   2:04.55 java
+
+top - 17:33:34 up  2:49,  4 users,  load average: 3.37, 2.76, 2.37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.0 us,  2.5 sy,  0.0 ni, 72.5 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1504744 free,  3501276 used,  2668268 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3450940 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711848  53152 S  88.0  9.3   2:04.99 java
+
+top - 17:33:35 up  2:49,  4 users,  load average: 3.42, 2.78, 2.38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.0 us,  3.4 sy,  0.0 ni, 62.8 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1504744 free,  3501276 used,  2668268 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3450940 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711848  53152 S  96.0  9.3   2:05.47 java
+
+top - 17:33:35 up  2:49,  4 users,  load average: 3.42, 2.78, 2.38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.7 us,  3.3 sy,  0.0 ni, 62.0 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1504744 free,  3501276 used,  2668268 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3450940 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711848  53152 S  96.0  9.3   2:05.95 java
+
+top - 17:33:36 up  2:49,  4 users,  load average: 3.42, 2.78, 2.38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.6 us,  2.5 sy,  0.0 ni, 61.5 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1500256 free,  3500716 used,  2673316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3446468 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711848  53152 S 122.0  9.3   2:06.56 java
+
+top - 17:33:36 up  2:49,  4 users,  load average: 3.42, 2.78, 2.38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.9 us,  2.5 sy,  0.0 ni, 70.0 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1500256 free,  3500716 used,  2673316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3446468 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711848  53152 S 104.0  9.3   2:07.08 java
+
+top - 17:33:37 up  2:49,  4 users,  load average: 3.42, 2.78, 2.38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.3 us,  3.5 sy,  0.0 ni, 74.2 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1500256 free,  3500716 used,  2673316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3446468 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711848  53152 S  52.0  9.3   2:07.34 java
+
+top - 17:33:37 up  2:49,  4 users,  load average: 3.42, 2.78, 2.38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 32.2 us,  3.3 sy,  0.0 ni, 63.8 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  1500256 free,  3500716 used,  2673316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3446468 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711848  53152 S 110.0  9.3   2:07.89 java
+
+top - 17:33:38 up  2:49,  4 users,  load average: 3.42, 2.78, 2.38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.0 us,  3.0 sy,  0.0 ni, 55.7 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  1500256 free,  3500716 used,  2673316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3446468 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711940  53152 S 151.0  9.3   2:08.66 java
+
+top - 17:33:38 up  2:49,  4 users,  load average: 3.42, 2.78, 2.38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.6 us,  4.3 sy,  0.0 ni, 67.7 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1500256 free,  3500716 used,  2673316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3446468 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 711940  53152 S  64.0  9.3   2:08.98 java
+
+top - 17:33:39 up  2:49,  4 users,  load average: 3.42, 2.78, 2.38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.4 us,  4.1 sy,  0.0 ni, 66.8 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  1490784 free,  3501564 used,  2681940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3437012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712168  53152 S  88.0  9.3   2:09.42 java
+
+top - 17:33:39 up  2:49,  4 users,  load average: 3.42, 2.78, 2.38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.1 us,  3.0 sy,  0.0 ni, 64.7 id,  0.5 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1490784 free,  3501564 used,  2681940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3437012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712168  53152 S  98.0  9.3   2:09.91 java
+
+top - 17:33:40 up  2:49,  4 users,  load average: 3.63, 2.83, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 35.7 us,  3.0 sy,  0.0 ni, 58.4 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1490784 free,  3501564 used,  2681940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3437012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712432  53152 S 158.0  9.3   2:10.70 java
+
+top - 17:33:40 up  2:49,  4 users,  load average: 3.63, 2.83, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.2 us,  3.8 sy,  0.0 ni, 70.8 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1490784 free,  3501564 used,  2681940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3437012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712432  53152 S  56.0  9.3   2:10.98 java
+
+top - 17:33:41 up  2:49,  4 users,  load average: 3.63, 2.83, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.3 us,  3.2 sy,  0.0 ni, 70.0 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1490784 free,  3501564 used,  2681940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3437012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712432  53152 S  26.0  9.3   2:11.11 java
+
+top - 17:33:41 up  2:49,  4 users,  load average: 3.63, 2.83, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.4 us,  4.0 sy,  0.0 ni, 73.6 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1490784 free,  3501564 used,  2681940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3437012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712432  53152 S  66.0  9.3   2:11.44 java
+
+top - 17:33:42 up  2:49,  4 users,  load average: 3.63, 2.83, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.0 us,  3.5 sy,  0.0 ni, 65.3 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  1484936 free,  3502216 used,  2687136 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3431216 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712484  53152 S  78.0  9.3   2:11.83 java
+
+top - 17:33:42 up  2:49,  4 users,  load average: 3.63, 2.83, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.5 us,  2.5 sy,  0.0 ni, 66.2 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  1484936 free,  3502216 used,  2687136 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3431216 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712484  53152 S 131.4  9.3   2:12.50 java
+
+top - 17:33:43 up  2:49,  4 users,  load average: 3.63, 2.83, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 38.9 us,  3.6 sy,  0.0 ni, 57.3 id,  0.0 wa,  0.0 hi,  0.3 si,  0.0 st
+KiB Mem :  7674288 total,  1484936 free,  3502216 used,  2687136 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3431216 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712484  53152 S 170.0  9.3   2:13.35 java
+
+top - 17:33:43 up  2:49,  4 users,  load average: 3.63, 2.83, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 43.0 us,  3.8 sy,  0.0 ni, 52.8 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,  1484936 free,  3502216 used,  2687136 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3431216 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712484  53152 S 200.0  9.3   2:14.35 java
+
+top - 17:33:44 up  2:49,  4 users,  load average: 3.63, 2.83, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.7 us,  3.0 sy,  0.0 ni, 67.8 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1484936 free,  3502216 used,  2687136 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3431216 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712484  53152 S  96.0  9.3   2:14.83 java
+
+top - 17:33:44 up  2:49,  4 users,  load average: 3.63, 2.83, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.6 us,  2.5 sy,  0.0 ni, 63.3 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1484936 free,  3502216 used,  2687136 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3431216 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712484  53152 S  94.0  9.3   2:15.30 java
+
+top - 17:33:45 up  2:49,  4 users,  load average: 3.50, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.9 us,  3.3 sy,  0.0 ni, 72.4 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1481168 free,  3502592 used,  2690528 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3427480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712484  53152 S  70.0  9.3   2:15.65 java
+
+top - 17:33:45 up  2:49,  4 users,  load average: 3.50, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.2 us,  2.8 sy,  0.0 ni, 74.5 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1481168 free,  3502592 used,  2690528 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3427480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 712484  53152 S  78.0  9.3   2:16.04 java
+
+top - 17:33:46 up  2:49,  4 users,  load average: 3.50, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.7 us,  3.7 sy,  0.0 ni, 60.1 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1481168 free,  3502592 used,  2690528 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3427480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486320 712484  53152 S 184.0  9.3   2:16.96 java
+
+top - 17:33:46 up  2:49,  4 users,  load average: 3.50, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.9 us,  3.0 sy,  0.0 ni, 67.0 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1481168 free,  3502592 used,  2690528 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3427480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486596 712940  53152 S 112.0  9.3   2:17.52 java
+
+top - 17:33:47 up  2:49,  4 users,  load average: 3.50, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.1 us,  3.5 sy,  0.0 ni, 64.9 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1481168 free,  3502592 used,  2690528 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3427480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486596 713204  53152 S  68.6  9.3   2:17.87 java
+
+top - 17:33:47 up  2:49,  4 users,  load average: 3.50, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.6 us,  3.4 sy,  0.0 ni, 73.4 id,  0.0 wa,  0.0 hi,  3.6 si,  0.0 st
+KiB Mem :  7674288 total,  1481168 free,  3502592 used,  2690528 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3427480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486596 713292  53152 S  92.0  9.3   2:18.33 java
+
+top - 17:33:48 up  2:49,  4 users,  load average: 3.50, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.9 us,  3.0 sy,  0.0 ni, 67.7 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1471668 free,  3509212 used,  2693408 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3418092 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486596 713292  53152 S 114.0  9.3   2:18.90 java
+
+top - 17:33:48 up  2:49,  4 users,  load average: 3.50, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us,  3.9 sy,  0.0 ni, 76.5 id,  0.2 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1471668 free,  3509212 used,  2693408 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3418092 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486596 713292  53152 S  40.0  9.3   2:19.10 java
+
+top - 17:33:49 up  2:49,  4 users,  load average: 3.50, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.8 us,  2.8 sy,  0.0 ni, 75.9 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1471668 free,  3509212 used,  2693408 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3418092 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486596 713292  53152 S  86.0  9.3   2:19.53 java
+
+top - 17:33:49 up  2:49,  4 users,  load average: 3.50, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.4 us,  2.2 sy,  0.0 ni, 70.1 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1471668 free,  3509212 used,  2693408 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3418092 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486596 713552  53152 S 116.0  9.3   2:20.11 java
+
+top - 17:33:50 up  2:49,  4 users,  load average: 3.46, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.9 us,  3.0 sy,  0.0 ni, 78.4 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  1471668 free,  3509212 used,  2693408 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3418092 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486596 713552  53152 S  48.0  9.3   2:20.35 java
+
+top - 17:33:50 up  2:49,  4 users,  load average: 3.46, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.6 us,  3.3 sy,  0.0 ni, 73.7 id,  0.8 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1471668 free,  3509212 used,  2693408 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3418092 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486596 713552  53152 S  90.0  9.3   2:20.80 java
+
+top - 17:33:51 up  2:49,  4 users,  load average: 3.46, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 39.4 us,  4.0 sy,  0.0 ni, 54.9 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  1467964 free,  3509412 used,  2696912 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3414440 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486596 713552  53152 S 114.0  9.3   2:21.37 java
+
+top - 17:33:51 up  2:49,  4 users,  load average: 3.46, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 54.6 us,  4.3 sy,  0.0 ni, 39.8 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1467964 free,  3509412 used,  2696912 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3414440 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713172  53152 S 207.8  9.3   2:22.43 java
+
+top - 17:33:52 up  2:49,  4 users,  load average: 3.46, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 36.9 us,  4.0 sy,  0.0 ni, 57.0 id,  0.5 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1467964 free,  3509412 used,  2696912 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3414440 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713172  53152 S 190.0  9.3   2:23.38 java
+
+top - 17:33:52 up  2:49,  4 users,  load average: 3.46, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.9 us,  4.3 sy,  0.0 ni, 63.1 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  1467964 free,  3509412 used,  2696912 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3414440 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713172  53152 S 166.0  9.3   2:24.21 java
+
+top - 17:33:53 up  2:49,  4 users,  load average: 3.46, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 30.8 us,  3.4 sy,  0.0 ni, 64.8 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1467964 free,  3509412 used,  2696912 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3414440 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713172  53152 S 140.0  9.3   2:24.91 java
+
+top - 17:33:53 up  2:49,  4 users,  load average: 3.46, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.2 us,  2.6 sy,  0.0 ni, 62.0 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1467964 free,  3509412 used,  2696912 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3414440 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713172  53152 S  74.0  9.3   2:25.28 java
+
+top - 17:33:54 up  2:49,  4 users,  load average: 3.46, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 35.2 us,  3.3 sy,  0.0 ni, 60.0 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1451840 free,  3513792 used,  2708656 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3398396 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713432  53152 S 164.0  9.3   2:26.10 java
+
+top - 17:33:54 up  2:49,  4 users,  load average: 3.46, 2.82, 2.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.2 us,  3.0 sy,  0.0 ni, 69.1 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  1451840 free,  3513792 used,  2708656 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3398396 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713432  53152 S  72.0  9.3   2:26.46 java
+
+top - 17:33:55 up  2:49,  4 users,  load average: 3.66, 2.88, 2.42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.4 us,  3.5 sy,  0.0 ni, 62.5 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,  1451840 free,  3513792 used,  2708656 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3398396 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713524  53152 S 150.0  9.3   2:27.21 java
+
+top - 17:33:55 up  2:49,  4 users,  load average: 3.66, 2.88, 2.42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.6 us,  3.5 sy,  0.0 ni, 72.1 id,  0.0 wa,  0.0 hi,  2.8 si,  0.0 st
+KiB Mem :  7674288 total,  1451840 free,  3513792 used,  2708656 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3398396 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713524  53152 S  54.0  9.3   2:27.48 java
+
+top - 17:33:56 up  2:49,  4 users,  load average: 3.66, 2.88, 2.42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.3 us,  3.5 sy,  0.0 ni, 60.3 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1451840 free,  3513792 used,  2708656 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3398396 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713556  53152 S 121.6  9.3   2:28.10 java
+
+top - 17:33:56 up  2:49,  4 users,  load average: 3.66, 2.88, 2.42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 38.1 us,  3.0 sy,  0.0 ni, 56.4 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1451840 free,  3513792 used,  2708656 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3398396 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713556  53152 S 168.0  9.3   2:28.94 java
+
+top - 17:33:57 up  2:49,  4 users,  load average: 3.66, 2.88, 2.42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.4 us,  2.5 sy,  0.0 ni, 72.9 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1444828 free,  3514228 used,  2715232 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3391400 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713556  53152 S  62.0  9.3   2:29.25 java
+
+top - 17:33:57 up  2:49,  4 users,  load average: 3.66, 2.88, 2.42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.0 us,  4.0 sy,  0.0 ni, 59.6 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1444828 free,  3514228 used,  2715232 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3391400 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713556  53152 S 150.0  9.3   2:30.00 java
+
+top - 17:33:58 up  2:49,  4 users,  load average: 3.66, 2.88, 2.42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.2 us,  3.2 sy,  0.0 ni, 71.8 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1444828 free,  3514228 used,  2715232 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3391400 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713556  53152 S  98.0  9.3   2:30.49 java
+
+top - 17:33:58 up  2:49,  4 users,  load average: 3.66, 2.88, 2.42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.4 us,  2.0 sy,  0.0 ni, 69.5 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1444828 free,  3514228 used,  2715232 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3391400 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713556  53152 S 142.0  9.3   2:31.20 java
+
+top - 17:33:59 up  2:49,  4 users,  load average: 3.66, 2.88, 2.42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.0 us,  2.8 sy,  0.0 ni, 68.5 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1444828 free,  3514228 used,  2715232 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3391400 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 713616  53152 S 148.0  9.3   2:31.94 java
+
+top - 17:33:59 up  2:49,  4 users,  load average: 3.66, 2.88, 2.42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.5 us,  2.0 sy,  0.0 ni, 69.6 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1444828 free,  3514228 used,  2715232 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3391400 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714008  53152 S 140.0  9.3   2:32.64 java
+
+top - 17:34:00 up  2:49,  4 users,  load average: 3.85, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 34.9 us,  3.5 sy,  0.0 ni, 59.6 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1434036 free,  3524488 used,  2715764 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3380692 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714272  53152 S 202.0  9.3   2:33.65 java
+
+top - 17:34:00 up  2:49,  4 users,  load average: 3.85, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.9 us,  3.0 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1434036 free,  3524488 used,  2715764 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3380692 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714272  53152 S 102.0  9.3   2:34.17 java
+
+top - 17:34:01 up  2:49,  4 users,  load average: 3.85, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.0 us,  2.5 sy,  0.0 ni, 71.9 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1434036 free,  3524488 used,  2715764 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3380692 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714272  53152 S 136.0  9.3   2:34.85 java
+
+top - 17:34:01 up  2:49,  4 users,  load average: 3.85, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.0 us,  2.4 sy,  0.0 ni, 69.9 id,  0.0 wa,  0.0 hi,  3.7 si,  0.0 st
+KiB Mem :  7674288 total,  1434036 free,  3524488 used,  2715764 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3380692 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714536  53152 S 116.0  9.3   2:35.43 java
+
+top - 17:34:02 up  2:49,  4 users,  load average: 3.85, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.8 us,  2.7 sy,  0.0 ni, 69.3 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1434036 free,  3524488 used,  2715764 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3380692 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714536  53152 S 142.0  9.3   2:36.14 java
+
+top - 17:34:02 up  2:49,  4 users,  load average: 3.85, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.4 us,  2.7 sy,  0.0 ni, 68.3 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1434036 free,  3524488 used,  2715764 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3380692 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S 152.0  9.3   2:36.90 java
+
+top - 17:34:03 up  2:49,  4 users,  load average: 3.85, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.1 us,  2.2 sy,  0.0 ni, 68.7 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1433060 free,  3526040 used,  2715188 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3379732 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S 166.0  9.3   2:37.73 java
+
+top - 17:34:03 up  2:49,  4 users,  load average: 3.85, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.6 us,  2.5 sy,  0.0 ni, 62.9 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1433060 free,  3526040 used,  2715188 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3379732 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S 160.0  9.3   2:38.53 java
+
+top - 17:34:04 up  2:49,  4 users,  load average: 3.85, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.9 us,  4.4 sy,  0.0 ni, 66.7 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1433060 free,  3526040 used,  2715188 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3379732 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S 116.0  9.3   2:39.11 java
+
+top - 17:34:04 up  2:49,  4 users,  load average: 3.85, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.8 us,  2.4 sy,  0.0 ni, 74.4 id,  1.2 wa,  0.0 hi,  4.1 si,  0.0 st
+KiB Mem :  7674288 total,  1433060 free,  3526040 used,  2715188 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3379732 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  46.0  9.3   2:39.34 java
+
+top - 17:34:05 up  2:49,  4 users,  load average: 3.78, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.3 us,  3.8 sy,  0.0 ni, 76.4 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1433060 free,  3526040 used,  2715188 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3379732 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  44.0  9.3   2:39.56 java
+
+top - 17:34:05 up  2:49,  4 users,  load average: 3.78, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.1 us,  2.7 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  1433060 free,  3526040 used,  2715188 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3379732 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  42.0  9.3   2:39.77 java
+
+top - 17:34:06 up  2:49,  4 users,  load average: 3.78, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.6 us,  2.8 sy,  0.0 ni, 73.6 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1421600 free,  3533732 used,  2718956 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3368296 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  68.6  9.3   2:40.12 java
+
+top - 17:34:06 up  2:49,  4 users,  load average: 3.78, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.6 us,  3.0 sy,  0.0 ni, 76.9 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1421600 free,  3533732 used,  2718956 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3368296 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  30.0  9.3   2:40.27 java
+
+top - 17:34:07 up  2:49,  4 users,  load average: 3.78, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.0 us,  3.6 sy,  0.0 ni, 73.4 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1421600 free,  3533732 used,  2718956 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3368296 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  68.0  9.3   2:40.61 java
+
+top - 17:34:07 up  2:49,  4 users,  load average: 3.78, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.9 us,  3.0 sy,  0.0 ni, 76.5 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1421600 free,  3533732 used,  2718956 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3368296 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  40.0  9.3   2:40.81 java
+
+top - 17:34:08 up  2:49,  4 users,  load average: 3.78, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.2 us,  3.0 sy,  0.0 ni, 77.2 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1421600 free,  3533732 used,  2718956 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3368296 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  34.0  9.3   2:40.98 java
+
+top - 17:34:09 up  2:49,  4 users,  load average: 3.78, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.8 us,  4.0 sy,  0.0 ni, 71.8 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1421600 free,  3533732 used,  2718956 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3368296 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  66.0  9.3   2:41.31 java
+
+top - 17:34:09 up  2:49,  4 users,  load average: 3.78, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.2 us,  2.8 sy,  0.0 ni, 74.1 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1416840 free,  3534324 used,  2723124 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3363536 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  58.0  9.3   2:41.60 java
+
+top - 17:34:10 up  2:49,  4 users,  load average: 3.78, 2.93, 2.44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.5 us,  4.2 sy,  0.0 ni, 73.8 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1416840 free,  3534324 used,  2723124 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3363536 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  48.0  9.3   2:41.84 java
+
+top - 17:34:10 up  2:49,  4 users,  load average: 3.80, 2.95, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.2 us,  3.5 sy,  0.0 ni, 75.8 id,  0.2 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  1416840 free,  3534324 used,  2723124 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3363536 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  20.0  9.3   2:41.94 java
+
+top - 17:34:11 up  2:49,  4 users,  load average: 3.80, 2.95, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.9 us,  3.8 sy,  0.0 ni, 64.6 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1416840 free,  3534324 used,  2723124 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3363536 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  60.8  9.3   2:42.25 java
+
+top - 17:34:11 up  2:49,  4 users,  load average: 3.80, 2.95, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.5 us,  3.2 sy,  0.0 ni, 73.2 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1416840 free,  3534324 used,  2723124 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3363536 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  26.0  9.3   2:42.38 java
+
+top - 17:34:12 up  2:49,  4 users,  load average: 3.80, 2.95, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.4 us,  4.3 sy,  0.0 ni, 63.8 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,  1402772 free,  3542200 used,  2729316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3349480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S 102.0  9.3   2:42.89 java
+
+top - 17:34:12 up  2:49,  4 users,  load average: 3.80, 2.95, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.3 us,  3.3 sy,  0.0 ni, 76.4 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1402772 free,  3542200 used,  2729316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3349480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  38.0  9.3   2:43.08 java
+
+top - 17:34:13 up  2:49,  4 users,  load average: 3.80, 2.95, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.4 us,  3.3 sy,  0.0 ni, 71.1 id,  0.0 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,  1402772 free,  3542200 used,  2729316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3349480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  74.0  9.3   2:43.45 java
+
+top - 17:34:13 up  2:49,  4 users,  load average: 3.80, 2.95, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.7 us,  3.0 sy,  0.0 ni, 75.8 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1402772 free,  3542200 used,  2729316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3349480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  42.0  9.3   2:43.66 java
+
+top - 17:34:14 up  2:49,  4 users,  load average: 3.80, 2.95, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.6 us,  3.5 sy,  0.0 ni, 62.1 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  1402772 free,  3542200 used,  2729316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3349480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S 114.0  9.3   2:44.23 java
+
+top - 17:34:14 up  2:49,  4 users,  load average: 3.80, 2.95, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.6 us,  3.0 sy,  0.0 ni, 77.7 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1402772 free,  3542200 used,  2729316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3349480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  22.0  9.3   2:44.34 java
+
+top - 17:34:15 up  2:49,  4 users,  load average: 3.80, 2.95, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.3 us,  3.3 sy,  0.0 ni, 67.7 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1393580 free,  3548188 used,  2732520 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3340300 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  82.0  9.3   2:44.75 java
+
+top - 17:34:15 up  2:49,  4 users,  load average: 3.65, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.9 us,  4.7 sy,  0.0 ni, 72.5 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  1393580 free,  3548188 used,  2732520 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3340300 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  60.8  9.3   2:45.06 java
+
+top - 17:34:16 up  2:49,  4 users,  load average: 3.65, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.3 us,  3.9 sy,  0.0 ni, 72.3 id,  0.5 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1393580 free,  3548188 used,  2732520 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3340300 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  76.0  9.3   2:45.44 java
+
+top - 17:34:16 up  2:49,  4 users,  load average: 3.65, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.4 us,  3.2 sy,  0.0 ni, 72.4 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1393580 free,  3548188 used,  2732520 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3340300 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  24.0  9.3   2:45.56 java
+
+top - 17:34:17 up  2:49,  4 users,  load average: 3.65, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.0 us,  2.7 sy,  0.0 ni, 75.9 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1393580 free,  3548188 used,  2732520 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3340300 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  36.0  9.3   2:45.74 java
+
+top - 17:34:17 up  2:49,  4 users,  load average: 3.65, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 35.1 us,  3.7 sy,  0.0 ni, 60.0 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,  1393580 free,  3548188 used,  2732520 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3340300 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  90.0  9.3   2:46.19 java
+
+top - 17:34:18 up  2:49,  4 users,  load average: 3.65, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.6 us,  2.7 sy,  0.0 ni, 79.7 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1384512 free,  3554016 used,  2735760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3331236 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  16.0  9.3   2:46.27 java
+
+top - 17:34:18 up  2:49,  4 users,  load average: 3.65, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.9 us,  2.8 sy,  0.0 ni, 75.5 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1384512 free,  3554016 used,  2735760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3331236 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  60.0  9.3   2:46.57 java
+
+top - 17:34:19 up  2:49,  4 users,  load average: 3.65, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.8 us,  2.5 sy,  0.0 ni, 76.2 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1384512 free,  3554016 used,  2735760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3331236 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  40.0  9.3   2:46.77 java
+
+top - 17:34:19 up  2:49,  4 users,  load average: 3.65, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.0 us,  2.5 sy,  0.0 ni, 72.2 id,  0.3 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1384512 free,  3554016 used,  2735760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3331236 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  16.0  9.3   2:46.85 java
+
+top - 17:34:20 up  2:49,  4 users,  load average: 3.65, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us,  3.5 sy,  0.0 ni, 77.4 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1384512 free,  3554016 used,  2735760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3331236 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  21.6  9.3   2:46.96 java
+
+top - 17:34:20 up  2:49,  4 users,  load average: 3.60, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.6 us,  3.3 sy,  0.0 ni, 71.1 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1384512 free,  3554016 used,  2735760 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3331236 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  60.0  9.3   2:47.26 java
+
+top - 17:34:21 up  2:49,  4 users,  load average: 3.60, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.4 us,  2.5 sy,  0.0 ni, 79.6 id,  0.0 wa,  0.0 hi,  3.5 si,  0.0 st
+KiB Mem :  7674288 total,  1370108 free,  3565120 used,  2739060 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3316840 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714692  53152 S  18.0  9.3   2:47.35 java
+
+top - 17:34:21 up  2:49,  4 users,  load average: 3.60, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.2 us,  2.0 sy,  0.0 ni, 79.8 id,  0.8 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1370108 free,  3565120 used,  2739060 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3316840 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  18.0  9.3   2:47.44 java
+
+top - 17:34:22 up  2:50,  4 users,  load average: 3.60, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.8 us,  2.5 sy,  0.0 ni, 77.6 id,  0.0 wa,  0.0 hi,  4.2 si,  0.0 st
+KiB Mem :  7674288 total,  1370108 free,  3565120 used,  2739060 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3316840 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  16.0  9.3   2:47.52 java
+
+top - 17:34:22 up  2:50,  4 users,  load average: 3.60, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.6 us,  2.7 sy,  0.0 ni, 76.7 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1370108 free,  3565120 used,  2739060 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3316840 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  16.0  9.3   2:47.60 java
+
+top - 17:34:23 up  2:50,  4 users,  load average: 3.60, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.4 us,  3.4 sy,  0.0 ni, 76.4 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1370108 free,  3565120 used,  2739060 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3316840 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  18.0  9.3   2:47.69 java
+
+top - 17:34:23 up  2:50,  4 users,  load average: 3.60, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.4 us,  3.0 sy,  0.0 ni, 75.4 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1370108 free,  3565120 used,  2739060 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3316840 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  16.0  9.3   2:47.77 java
+
+top - 17:34:24 up  2:50,  4 users,  load average: 3.60, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.7 us,  3.7 sy,  0.0 ni, 72.1 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1368444 free,  3565244 used,  2740600 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3315220 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  80.0  9.3   2:48.17 java
+
+top - 17:34:24 up  2:50,  4 users,  load average: 3.60, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.6 us,  3.5 sy,  0.0 ni, 79.2 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1368444 free,  3565244 used,  2740600 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3315220 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  19.6  9.3   2:48.27 java
+
+top - 17:34:25 up  2:50,  4 users,  load average: 3.60, 2.93, 2.45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.8 us,  3.7 sy,  0.0 ni, 80.2 id,  0.2 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1368444 free,  3565244 used,  2740600 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3315220 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  16.0  9.3   2:48.35 java
+
+top - 17:34:25 up  2:50,  4 users,  load average: 3.55, 2.93, 2.46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.0 us,  2.9 sy,  0.0 ni, 78.5 id,  0.0 wa,  0.0 hi,  3.6 si,  0.0 st
+KiB Mem :  7674288 total,  1368444 free,  3565244 used,  2740600 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3315220 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  14.0  9.3   2:48.42 java
+
+top - 17:34:26 up  2:50,  4 users,  load average: 3.55, 2.93, 2.46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.4 us,  3.2 sy,  0.0 ni, 75.4 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  1368444 free,  3565244 used,  2740600 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3315220 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  20.0  9.3   2:48.52 java
+
+top - 17:34:26 up  2:50,  4 users,  load average: 3.55, 2.93, 2.46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.0 us,  1.8 sy,  0.0 ni, 79.8 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1368444 free,  3565244 used,  2740600 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3315220 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  20.0  9.3   2:48.62 java
+
+top - 17:34:27 up  2:50,  4 users,  load average: 3.55, 2.93, 2.46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.8 us,  3.6 sy,  0.0 ni, 74.2 id,  0.7 wa,  0.0 hi,  3.6 si,  0.0 st
+KiB Mem :  7674288 total,  1368088 free,  3565344 used,  2740856 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3314928 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  22.0  9.3   2:48.73 java
+
+top - 17:34:27 up  2:50,  4 users,  load average: 3.55, 2.93, 2.46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.4 us,  2.5 sy,  0.0 ni, 73.4 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  1368088 free,  3565344 used,  2740856 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3314928 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  16.0  9.3   2:48.81 java
+
+top - 17:34:28 up  2:50,  4 users,  load average: 3.55, 2.93, 2.46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.0 us,  2.5 sy,  0.0 ni, 79.6 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1368088 free,  3565344 used,  2740856 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3314928 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  17.6  9.3   2:48.90 java
+
+top - 17:34:28 up  2:50,  4 users,  load average: 3.55, 2.93, 2.46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.2 us,  3.3 sy,  0.0 ni, 82.0 id,  0.5 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1368088 free,  3565344 used,  2740856 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3314928 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  12.0  9.3   2:48.96 java
+
+top - 17:34:29 up  2:50,  4 users,  load average: 3.55, 2.93, 2.46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.7 us,  1.7 sy,  0.0 ni, 78.1 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1368088 free,  3565344 used,  2740856 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3314928 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  60.0  9.3   2:49.26 java
+
+top - 17:34:29 up  2:50,  4 users,  load average: 3.55, 2.93, 2.46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us,  2.9 sy,  0.0 ni, 76.7 id,  0.0 wa,  0.0 hi,  3.7 si,  0.0 st
+KiB Mem :  7674288 total,  1368088 free,  3565344 used,  2740856 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3314928 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  48.0  9.3   2:49.50 java
+
+top - 17:34:30 up  2:50,  4 users,  load average: 3.55, 2.93, 2.46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.6 us,  2.7 sy,  0.0 ni, 74.9 id,  0.2 wa,  0.0 hi,  3.6 si,  0.0 st
+KiB Mem :  7674288 total,  1366984 free,  3565700 used,  2741604 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3313868 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  66.0  9.3   2:49.83 java
+
+top - 17:34:30 up  2:50,  4 users,  load average: 3.59, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.9 us,  1.7 sy,  0.0 ni, 78.7 id,  0.0 wa,  0.0 hi,  3.7 si,  0.0 st
+KiB Mem :  7674288 total,  1366984 free,  3565700 used,  2741604 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3313868 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  54.0  9.3   2:50.10 java
+
+top - 17:34:31 up  2:50,  4 users,  load average: 3.59, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.4 us,  2.3 sy,  0.0 ni, 80.5 id,  0.0 wa,  0.0 hi,  2.8 si,  0.0 st
+KiB Mem :  7674288 total,  1366984 free,  3565700 used,  2741604 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3313868 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  40.0  9.3   2:50.30 java
+
+top - 17:34:31 up  2:50,  4 users,  load average: 3.59, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.6 us,  2.5 sy,  0.0 ni, 79.4 id,  0.5 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1366984 free,  3565700 used,  2741604 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3313868 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  30.0  9.3   2:50.45 java
+
+top - 17:34:32 up  2:50,  4 users,  load average: 3.59, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.1 us,  2.7 sy,  0.0 ni, 75.9 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1366984 free,  3565700 used,  2741604 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3313868 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  72.0  9.3   2:50.81 java
+
+top - 17:34:32 up  2:50,  4 users,  load average: 3.59, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.6 us,  2.5 sy,  0.0 ni, 78.1 id,  0.0 wa,  0.0 hi,  2.8 si,  0.0 st
+KiB Mem :  7674288 total,  1366984 free,  3565700 used,  2741604 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3313868 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  32.0  9.3   2:50.97 java
+
+top - 17:34:33 up  2:50,  4 users,  load average: 3.59, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 44.2 us,  2.2 sy,  0.0 ni, 51.9 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,  1359052 free,  3572252 used,  2742984 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3305976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S 129.4  9.3   2:51.63 java
+
+top - 17:34:33 up  2:50,  4 users,  load average: 3.59, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.3 us,  2.0 sy,  0.0 ni, 77.5 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1359052 free,  3572252 used,  2742984 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3305976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  50.0  9.3   2:51.88 java
+
+top - 17:34:34 up  2:50,  4 users,  load average: 3.59, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.3 us,  3.4 sy,  0.0 ni, 79.1 id,  0.0 wa,  0.0 hi,  4.2 si,  0.0 st
+KiB Mem :  7674288 total,  1359052 free,  3572252 used,  2742984 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3305976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  26.0  9.3   2:52.01 java
+
+top - 17:34:34 up  2:50,  4 users,  load average: 3.59, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.0 us,  3.5 sy,  0.0 ni, 63.7 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1359052 free,  3572252 used,  2742984 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3305976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S 108.0  9.3   2:52.55 java
+
+top - 17:34:35 up  2:50,  4 users,  load average: 3.59, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.6 us,  3.2 sy,  0.0 ni, 81.2 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1359052 free,  3572252 used,  2742984 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3305976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  22.0  9.3   2:52.66 java
+
+top - 17:34:35 up  2:50,  4 users,  load average: 3.54, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.6 us,  2.0 sy,  0.0 ni, 78.3 id,  0.7 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,  1359052 free,  3572252 used,  2742984 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3305976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  52.0  9.3   2:52.92 java
+
+top - 17:34:36 up  2:50,  4 users,  load average: 3.54, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.5 us,  2.9 sy,  0.0 ni, 75.2 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,  1355908 free,  3572020 used,  2746360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3302832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  52.0  9.3   2:53.18 java
+
+top - 17:34:36 up  2:50,  4 users,  load average: 3.54, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.0 us,  3.2 sy,  0.0 ni, 78.6 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1355908 free,  3572020 used,  2746360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3302832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  21.6  9.3   2:53.29 java
+
+top - 17:34:37 up  2:50,  4 users,  load average: 3.54, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.4 us,  2.5 sy,  0.0 ni, 70.9 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,  1355908 free,  3572020 used,  2746360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3302832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S 130.0  9.3   2:53.94 java
+
+top - 17:34:37 up  2:50,  4 users,  load average: 3.54, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.3 us,  1.7 sy,  0.0 ni, 78.0 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1355908 free,  3572020 used,  2746360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3302832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  48.0  9.3   2:54.18 java
+
+top - 17:34:38 up  2:50,  4 users,  load average: 3.54, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.2 us,  3.5 sy,  0.0 ni, 72.3 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1355908 free,  3572020 used,  2746360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3302832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 714900  53152 S  48.0  9.3   2:54.42 java
+
+top - 17:34:38 up  2:50,  4 users,  load average: 3.54, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.7 us,  2.5 sy,  0.0 ni, 76.9 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1355908 free,  3572020 used,  2746360 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3302832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  78.0  9.3   2:54.81 java
+
+top - 17:34:39 up  2:50,  4 users,  load average: 3.54, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.5 us,  2.2 sy,  0.0 ni, 74.3 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1346544 free,  3580428 used,  2747316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S 104.0  9.3   2:55.33 java
+
+top - 17:34:39 up  2:50,  4 users,  load average: 3.54, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.0 us,  1.2 sy,  0.0 ni, 80.5 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1346544 free,  3580428 used,  2747316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  40.0  9.3   2:55.53 java
+
+top - 17:34:40 up  2:50,  4 users,  load average: 3.54, 2.95, 2.47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.9 us,  2.5 sy,  0.0 ni, 76.9 id,  0.0 wa,  0.0 hi,  3.7 si,  0.0 st
+KiB Mem :  7674288 total,  1346544 free,  3580428 used,  2747316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  38.0  9.3   2:55.72 java
+
+top - 17:34:40 up  2:50,  4 users,  load average: 3.74, 3.00, 2.49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.6 us,  2.3 sy,  0.0 ni, 70.4 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1346544 free,  3580428 used,  2747316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S 138.0  9.3   2:56.41 java
+
+top - 17:34:41 up  2:50,  4 users,  load average: 3.74, 3.00, 2.49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.5 us,  2.7 sy,  0.0 ni, 75.6 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1346544 free,  3580428 used,  2747316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  51.0  9.3   2:56.67 java
+
+top - 17:34:41 up  2:50,  4 users,  load average: 3.74, 3.00, 2.49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.9 us,  2.0 sy,  0.0 ni, 80.5 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1346544 free,  3580428 used,  2747316 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  24.0  9.3   2:56.79 java
+
+top - 17:34:42 up  2:50,  4 users,  load average: 3.74, 3.00, 2.49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.4 us,  2.5 sy,  0.0 ni, 74.6 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1346332 free,  3580512 used,  2747444 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  72.0  9.3   2:57.15 java
+
+top - 17:34:42 up  2:50,  4 users,  load average: 3.74, 3.00, 2.49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.5 us,  2.2 sy,  0.0 ni, 76.2 id,  0.2 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1346332 free,  3580512 used,  2747444 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  44.0  9.3   2:57.37 java
+
+top - 17:34:43 up  2:50,  4 users,  load average: 3.74, 3.00, 2.49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.5 us,  2.7 sy,  0.0 ni, 81.8 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1346332 free,  3580512 used,  2747444 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  16.0  9.3   2:57.45 java
+
+top - 17:34:43 up  2:50,  4 users,  load average: 3.74, 3.00, 2.49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.0 us,  2.7 sy,  0.0 ni, 79.1 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1346332 free,  3580512 used,  2747444 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  38.0  9.3   2:57.64 java
+
+top - 17:34:44 up  2:50,  4 users,  load average: 3.74, 3.00, 2.49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.8 us,  2.7 sy,  0.0 ni, 67.5 id,  0.5 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1346332 free,  3580512 used,  2747444 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  24.0  9.3   2:57.76 java
+
+top - 17:34:44 up  2:50,  4 users,  load average: 3.74, 3.00, 2.49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.3 us,  2.0 sy,  0.0 ni, 78.8 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1346332 free,  3580512 used,  2747444 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3293280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  20.0  9.3   2:57.86 java
+
+top - 17:34:45 up  2:50,  4 users,  load average: 3.74, 3.00, 2.49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.1 us,  2.5 sy,  0.0 ni, 78.9 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  1339836 free,  3585028 used,  2749424 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3286780 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  23.5  9.3   2:57.98 java
+
+top - 17:34:45 up  2:50,  4 users,  load average: 3.92, 3.05, 2.51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.1 us,  2.3 sy,  0.0 ni, 80.9 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1339836 free,  3585028 used,  2749424 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3286780 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  16.0  9.3   2:58.06 java
+
+top - 17:34:46 up  2:50,  4 users,  load average: 3.92, 3.05, 2.51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.9 us,  3.5 sy,  0.0 ni, 79.7 id,  0.5 wa,  0.0 hi,  3.5 si,  0.0 st
+KiB Mem :  7674288 total,  1339836 free,  3585028 used,  2749424 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3286780 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  12.0  9.3   2:58.12 java
+
+top - 17:34:46 up  2:50,  4 users,  load average: 3.92, 3.05, 2.51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.2 us,  4.2 sy,  0.0 ni, 80.6 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1339836 free,  3585028 used,  2749424 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3286780 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  12.0  9.3   2:58.18 java
+
+top - 17:34:47 up  2:50,  4 users,  load average: 3.92, 3.05, 2.51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.3 us,  4.0 sy,  0.0 ni, 79.0 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1339836 free,  3585028 used,  2749424 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3286780 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  16.0  9.3   2:58.26 java
+
+top - 17:34:47 up  2:50,  4 users,  load average: 3.92, 3.05, 2.51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  3.5 sy,  0.0 ni, 81.2 id,  0.0 wa,  0.0 hi,  2.8 si,  0.0 st
+KiB Mem :  7674288 total,  1339836 free,  3585028 used,  2749424 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3286780 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  12.0  9.3   2:58.32 java
+
+top - 17:34:48 up  2:50,  4 users,  load average: 3.92, 3.05, 2.51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.2 us,  3.1 sy,  0.0 ni, 75.5 id,  0.0 wa,  0.0 hi,  4.1 si,  0.0 st
+KiB Mem :  7674288 total,  1338180 free,  3585356 used,  2750752 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3285064 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  44.0  9.3   2:58.54 java
+
+top - 17:34:48 up  2:50,  4 users,  load average: 3.92, 3.05, 2.51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.8 us,  3.2 sy,  0.0 ni, 75.1 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1338180 free,  3585356 used,  2750752 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3285064 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  16.0  9.3   2:58.62 java
+
+top - 17:34:49 up  2:50,  4 users,  load average: 3.92, 3.05, 2.51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.7 us,  2.2 sy,  0.0 ni, 79.9 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  1338180 free,  3585356 used,  2750752 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3285064 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  18.0  9.3   2:58.71 java
+
+top - 17:34:49 up  2:50,  4 users,  load average: 3.92, 3.05, 2.51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.6 us,  2.9 sy,  0.0 ni, 78.5 id,  0.2 wa,  0.0 hi,  3.7 si,  0.0 st
+KiB Mem :  7674288 total,  1338180 free,  3585356 used,  2750752 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3285064 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  14.0  9.3   2:58.78 java
+
+top - 17:34:50 up  2:50,  4 users,  load average: 3.92, 3.05, 2.51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.2 us,  2.7 sy,  0.0 ni, 80.3 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1338180 free,  3585356 used,  2750752 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3285064 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  11.8  9.3   2:58.84 java
+
+top - 17:34:50 up  2:50,  4 users,  load average: 4.09, 3.10, 2.53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.0 us,  3.3 sy,  0.0 ni, 80.5 id,  0.0 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,  1338180 free,  3585356 used,  2750752 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3285064 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  18.0  9.3   2:58.93 java
+
+top - 17:34:51 up  2:50,  4 users,  load average: 4.09, 3.10, 2.53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.4 us,  3.5 sy,  0.0 ni, 79.4 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1333092 free,  3589256 used,  2751940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  16.0  9.3   2:59.01 java
+
+top - 17:34:51 up  2:50,  4 users,  load average: 4.09, 3.10, 2.53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.0 us,  3.2 sy,  0.0 ni, 79.8 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1333092 free,  3589256 used,  2751940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  16.0  9.3   2:59.09 java
+
+top - 17:34:52 up  2:50,  4 users,  load average: 4.09, 3.10, 2.53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.0 us,  3.2 sy,  0.0 ni, 78.8 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  1333092 free,  3589256 used,  2751940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  20.0  9.3   2:59.19 java
+
+top - 17:34:52 up  2:50,  4 users,  load average: 4.09, 3.10, 2.53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.9 us,  1.8 sy,  0.0 ni, 79.0 id,  0.0 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,  1333092 free,  3589256 used,  2751940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  26.0  9.3   2:59.32 java
+
+top - 17:34:53 up  2:50,  4 users,  load average: 4.09, 3.10, 2.53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.0 us,  2.8 sy,  0.0 ni, 80.7 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  1333092 free,  3589256 used,  2751940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  12.0  9.3   2:59.38 java
+
+top - 17:34:53 up  2:50,  4 users,  load average: 4.09, 3.10, 2.53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.5 us,  2.7 sy,  0.0 ni, 79.1 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,  1333092 free,  3589256 used,  2751940 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  24.0  9.3   2:59.50 java
+
+top - 17:34:54 up  2:50,  4 users,  load average: 4.09, 3.10, 2.53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.3 us,  3.0 sy,  0.0 ni, 76.4 id,  0.0 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,  1332848 free,  3589440 used,  2752000 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 6486180 715164  53152 S  18.0  9.3   2:59.59 java
+
+top - 17:34:54 up  2:50,  4 users,  load average: 4.09, 3.10, 2.53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.3 us,  4.4 sy,  0.0 ni, 77.3 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,  1332848 free,  3589440 used,  2752000 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8153364 715792  53152 S  24.0  9.3   2:59.71 java
+
+top - 17:34:55 up  2:50,  4 users,  load average: 4.09, 3.10, 2.53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.3 us,  2.0 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,  1332848 free,  3589440 used,  2752000 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8153364 715792  53152 S   0.0  9.3   2:59.71 java
+
+top - 17:34:55 up  2:50,  4 users,  load average: 3.84, 3.07, 2.52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  1.5 sy,  0.0 ni, 96.7 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,  1332848 free,  3589440 used,  2752000 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8153364 715792  53152 S   0.0  9.3   2:59.71 java
+
+top - 17:34:56 up  2:50,  4 users,  load average: 3.84, 3.07, 2.52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.8 us,  6.5 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,  1332848 free,  3589440 used,  2752000 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8153364 715792  53152 S   2.0  9.3   2:59.72 java
+
+top - 17:34:56 up  2:50,  4 users,  load average: 3.84, 3.07, 2.52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  1.5 sy,  0.0 ni, 96.5 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  1332848 free,  3589440 used,  2752000 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  3279724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8153364 715792  53152 S   0.0  9.3   2:59.72 java
+
+top - 17:34:57 up  2:50,  4 users,  load average: 3.84, 3.07, 2.52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.9 us,  3.8 sy,  0.0 ni, 72.6 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,  2261664 free,  2830728 used,  2581896 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4209800 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8154392 718208  53152 S 144.0  9.4   3:00.44 java
+
+top - 17:34:57 up  2:50,  4 users,  load average: 3.84, 3.07, 2.52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.2 us,  2.0 sy,  0.0 ni, 67.9 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  2261664 free,  2830728 used,  2581896 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4209800 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8155284 720060  53152 S 216.0  9.4   3:01.52 java
+
+top - 17:34:58 up  2:50,  4 users,  load average: 3.84, 3.07, 2.52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.4 us,  1.5 sy,  0.0 ni, 69.0 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,  2261664 free,  2830728 used,  2581896 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4209800 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8154392 719572  53152 S 218.0  9.4   3:02.61 java
+
+top - 17:34:58 up  2:50,  4 users,  load average: 3.84, 3.07, 2.52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.5 us,  1.2 sy,  0.0 ni, 71.9 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,  2261664 free,  2830728 used,  2581896 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4209800 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8155424 720640  53152 S 194.0  9.4   3:03.58 java
+
+top - 17:34:59 up  2:50,  4 users,  load average: 3.84, 3.07, 2.52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.8 us,  1.7 sy,  0.0 ni, 75.6 id,  1.5 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,  2261664 free,  2830728 used,  2581896 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4209800 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8155900 721360  53176 S 154.0  9.4   3:04.35 java
+
+top - 17:34:59 up  2:50,  4 users,  load average: 3.84, 3.07, 2.52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.4 us,  1.5 sy,  0.0 ni, 76.6 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  2261664 free,  2830728 used,  2581896 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4209800 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8156316 721928  53176 S 160.0  9.4   3:05.15 java
+
+top - 17:35:00 up  2:50,  4 users,  load average: 3.84, 3.07, 2.52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.3 us,  1.2 sy,  0.0 ni, 72.5 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  2241780 free,  2831416 used,  2601092 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4236240 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8154392 720080  53176 S 190.0  9.4   3:06.10 java
+
+top - 17:35:00 up  2:50,  4 users,  load average: 4.17, 3.15, 2.55
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.5 us,  2.0 sy,  0.0 ni, 80.5 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,  2241780 free,  2831416 used,  2601092 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4236240 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8154392 720088  53176 S 133.3  9.4   3:06.78 java
+
+top - 17:35:01 up  2:50,  4 users,  load average: 4.17, 3.15, 2.55
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.0 us,  1.9 sy,  0.0 ni, 78.2 id,  1.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  2241780 free,  2831416 used,  2601092 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4236240 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8154392 720088  53176 S 124.0  9.4   3:07.40 java
+
+top - 17:35:01 up  2:50,  4 users,  load average: 4.17, 3.15, 2.55
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.3 us,  1.7 sy,  0.0 ni, 80.5 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  2241780 free,  2831416 used,  2601092 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4236240 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8154392 722492  53176 S 126.0  9.4   3:08.03 java
+
+top - 17:35:02 up  2:50,  4 users,  load average: 4.17, 3.15, 2.55
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.8 us,  1.5 sy,  0.0 ni, 80.0 id,  1.2 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,  2241780 free,  2831416 used,  2601092 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4236240 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8154392 722492  53176 S 132.0  9.4   3:08.69 java
+
+top - 17:35:02 up  2:50,  4 users,  load average: 4.17, 3.15, 2.55
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.4 us,  1.0 sy,  0.0 ni, 76.2 id,  0.0 wa,  0.0 hi,  2.4 si,  0.0 st
+KiB Mem :  7674288 total,  2241780 free,  2831416 used,  2601092 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4236240 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8154392 722492  53176 S 158.0  9.4   3:09.48 java
+
+top - 17:35:03 up  2:50,  4 users,  load average: 4.17, 3.15, 2.55
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.5 us,  2.2 sy,  0.0 ni, 83.9 id,  1.5 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  2185152 free,  2832388 used,  2656748 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4226852 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 6203 clifrr    20   0 8145148 722316  53176 S  70.0  9.4   3:09.83 java
+
+top - 17:35:03 up  2:50,  3 users,  load average: 4.17, 3.15, 2.55
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.1 us,  8.8 sy,  0.5 ni, 80.6 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,  2185152 free,  2832388 used,  2656748 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4226852 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:35:04 up  2:50,  3 users,  load average: 4.17, 3.15, 2.55
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.9 us,  6.9 sy,  0.0 ni, 82.2 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,  2185152 free,  2832388 used,  2656748 buff/cache
+KiB Swap:  4194300 total,  3624700 free,   569600 used.  4226852 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND

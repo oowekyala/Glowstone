@@ -1,0 +1,1270 @@
+top - 17:24:32 up  2:40,  4 users,  load average: 1.54, 2.00, 2.03
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.3 us,  2.4 sy,  0.1 ni, 81.9 id,  0.2 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,   728688 free,  3979308 used,  2966292 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2682760 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  664952 316696  38696 R 100.0  4.1   0:05.13 glowstone-nativ
+
+top - 17:24:32 up  2:40,  4 users,  load average: 1.54, 2.00, 2.03
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.3 us,  1.7 sy,  0.0 ni, 77.9 id,  0.0 wa,  0.0 hi,  4.1 si,  0.0 st
+KiB Mem :  7674288 total,   728688 free,  3979308 used,  2966292 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2682760 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  672120 328372  38696 R 100.0  4.3   0:05.63 glowstone-nativ
+
+top - 17:24:33 up  2:40,  4 users,  load average: 1.54, 2.00, 2.03
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.9 us,  2.0 sy,  0.0 ni, 81.6 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   728688 free,  3979308 used,  2966292 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2682760 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  673144 329144  38696 R 100.0  4.3   0:06.13 glowstone-nativ
+
+top - 17:24:33 up  2:40,  4 users,  load average: 1.54, 2.00, 2.03
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.2 us,  1.5 sy,  0.0 ni, 80.0 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,   728688 free,  3979308 used,  2966292 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2682760 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  673144 329272  38820 R 100.0  4.3   0:06.63 glowstone-nativ
+
+top - 17:24:34 up  2:40,  4 users,  load average: 1.54, 2.00, 2.03
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.7 us,  1.5 sy,  0.0 ni, 80.3 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,   728688 free,  3979308 used,  2966292 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2682760 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  674168 330408  38884 R  98.0  4.3   0:07.12 glowstone-nativ
+
+top - 17:24:34 up  2:40,  4 users,  load average: 1.54, 2.00, 2.03
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.7 us,  1.2 sy,  0.0 ni, 79.5 id,  0.7 wa,  0.0 hi,  3.9 si,  0.0 st
+KiB Mem :  7674288 total,   728688 free,  3979308 used,  2966292 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2682760 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  675192 331648  38884 R 100.0  4.3   0:07.63 glowstone-nativ
+
+top - 17:24:35 up  2:40,  4 users,  load average: 1.90, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.6 us,  2.7 sy,  0.0 ni, 80.9 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   723196 free,  3994188 used,  2956904 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2677292 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  676216 332644  38884 R  96.0  4.3   0:08.11 glowstone-nativ
+
+top - 17:24:35 up  2:40,  4 users,  load average: 1.90, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.0 us,  1.5 sy,  0.0 ni, 82.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  7674288 total,   723196 free,  3994188 used,  2956904 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2677292 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  678264 333840  38884 R 102.0  4.4   0:08.62 glowstone-nativ
+
+top - 17:24:36 up  2:40,  4 users,  load average: 1.90, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.2 us,  2.2 sy,  0.0 ni, 82.0 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,   723196 free,  3994188 used,  2956904 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2677292 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  679288 334996  38884 R  98.0  4.4   0:09.11 glowstone-nativ
+
+top - 17:24:36 up  2:40,  4 users,  load average: 1.90, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.8 us,  2.5 sy,  0.0 ni, 80.8 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   723196 free,  3994188 used,  2956904 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2677292 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  680312 336204  38884 R 100.0  4.4   0:09.61 glowstone-nativ
+
+top - 17:24:37 up  2:40,  4 users,  load average: 1.90, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.2 us,  1.7 sy,  0.0 ni, 81.6 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,   723196 free,  3994188 used,  2956904 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2677292 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  681336 337404  38880 R  98.0  4.4   0:10.10 glowstone-nativ
+
+top - 17:24:37 up  2:40,  4 users,  load average: 1.90, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.9 us,  1.3 sy,  0.0 ni, 82.6 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,   723196 free,  3994188 used,  2956904 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2677292 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  682360 338832  38880 R 100.0  4.4   0:10.60 glowstone-nativ
+
+top - 17:24:38 up  2:40,  4 users,  load average: 1.90, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.2 us,  2.2 sy,  0.0 ni, 81.5 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,   706688 free,  4002576 used,  2965024 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2660916 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  683384 339148  38876 R 100.0  4.4   0:11.10 glowstone-nativ
+
+top - 17:24:38 up  2:40,  4 users,  load average: 1.90, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.2 us,  2.0 sy,  0.0 ni, 81.5 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,   706688 free,  4002576 used,  2965024 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2660916 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  684408 340216  38876 R 100.0  4.4   0:11.60 glowstone-nativ
+
+top - 17:24:39 up  2:40,  4 users,  load average: 1.90, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.7 us,  1.8 sy,  0.0 ni, 83.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  7674288 total,   706688 free,  4002576 used,  2965024 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2660916 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  685432 341508  39004 R  98.0  4.5   0:12.09 glowstone-nativ
+
+top - 17:24:39 up  2:40,  4 users,  load average: 1.90, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.2 us,  2.5 sy,  0.0 ni, 81.5 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   706688 free,  4002576 used,  2965024 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2660916 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  685432 341508  39004 R 100.0  4.5   0:12.59 glowstone-nativ
+
+top - 17:24:40 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.4 us,  2.2 sy,  0.0 ni, 80.6 id,  0.5 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,   706688 free,  4002576 used,  2965024 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2660916 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  686456 342632  39004 R  98.0  4.5   0:13.08 glowstone-nativ
+
+top - 17:24:40 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.4 us,  2.7 sy,  0.0 ni, 80.8 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,   706688 free,  4002576 used,  2965024 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2660916 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  687480 343660  39004 R 102.0  4.5   0:13.59 glowstone-nativ
+
+top - 17:24:41 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.6 us,  2.5 sy,  0.0 ni, 80.1 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+KiB Mem :  7674288 total,   707552 free,  4008664 used,  2958072 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2661788 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  688504 345104  39004 R  96.1  4.5   0:14.08 glowstone-nativ
+
+top - 17:24:41 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.8 us,  2.5 sy,  0.0 ni, 81.5 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,   707552 free,  4008664 used,  2958072 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2661788 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  689528 345636  39004 R 100.0  4.5   0:14.58 glowstone-nativ
+
+top - 17:24:42 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.5 us,  1.3 sy,  0.0 ni, 82.2 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,   707552 free,  4008664 used,  2958072 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2661788 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  690552 346152  39004 R  98.0  4.5   0:15.07 glowstone-nativ
+
+top - 17:24:42 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.4 us,  1.8 sy,  0.0 ni, 82.4 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,   707552 free,  4008664 used,  2958072 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2661788 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  691576 347188  39004 R 100.0  4.5   0:15.57 glowstone-nativ
+
+top - 17:24:43 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.0 us,  1.5 sy,  0.0 ni, 82.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  7674288 total,   707552 free,  4008664 used,  2958072 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2661788 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  692600 348236  39004 R 100.0  4.5   0:16.07 glowstone-nativ
+
+top - 17:24:43 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.8 us,  2.5 sy,  0.0 ni, 81.2 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,   707552 free,  4008664 used,  2958072 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2661788 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  693624 349292  39004 R  98.0  4.6   0:16.56 glowstone-nativ
+
+top - 17:24:44 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.6 us,  0.5 sy,  0.0 ni, 83.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  7674288 total,   701884 free,  4014184 used,  2958220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2656260 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  694648 350332  39004 R 100.0  4.6   0:17.06 glowstone-nativ
+
+top - 17:24:44 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.8 us,  2.2 sy,  0.0 ni, 80.7 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,   701884 free,  4014184 used,  2958220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2656260 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  768480 350348  39000 R  98.0  4.6   0:17.55 glowstone-nativ
+
+top - 17:24:45 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.2 us,  3.0 sy,  0.0 ni, 79.6 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+KiB Mem :  7674288 total,   701884 free,  4014184 used,  2958220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2656260 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  773600 356384  39000 R 102.0  4.6   0:18.06 glowstone-nativ
+
+top - 17:24:45 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.5 us,  4.2 sy,  0.0 ni, 67.8 id,  0.5 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   701884 free,  4014184 used,  2958220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2656260 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  773600 356384  39000 R  98.0  4.6   0:18.55 glowstone-nativ
+
+top - 17:24:46 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.3 us,  3.0 sy,  0.0 ni, 73.2 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,   701884 free,  4014184 used,  2958220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2656260 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  779744 361928  39000 R 100.0  4.7   0:19.05 glowstone-nativ
+
+top - 17:24:46 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.8 us,  2.5 sy,  0.0 ni, 77.0 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   701884 free,  4014184 used,  2958220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2656260 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  779744 361928  39000 R  98.0  4.7   0:19.54 glowstone-nativ
+
+top - 17:24:47 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.6 us,  3.2 sy,  0.0 ni, 72.5 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   679672 free,  4032508 used,  2962108 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2634076 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  786912 369360  39000 R  98.0  4.8   0:20.04 glowstone-nativ
+
+top - 17:24:47 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.7 us,  5.2 sy,  0.0 ni, 71.1 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,   679672 free,  4032508 used,  2962108 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2634076 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  786912 369360  39000 R  98.0  4.8   0:20.53 glowstone-nativ
+
+top - 17:24:48 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.1 us,  2.0 sy,  0.0 ni, 78.5 id,  0.0 wa,  0.0 hi,  2.4 si,  0.0 st
+KiB Mem :  7674288 total,   679672 free,  4032508 used,  2962108 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2634076 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  793056 375804  39000 R  98.0  4.9   0:21.02 glowstone-nativ
+
+top - 17:24:48 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.5 us,  3.2 sy,  0.0 ni, 73.5 id,  0.0 wa,  0.0 hi,  3.9 si,  0.0 st
+KiB Mem :  7674288 total,   679672 free,  4032508 used,  2962108 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2634076 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  793056 375804  39000 R  96.0  4.9   0:21.50 glowstone-nativ
+
+top - 17:24:49 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.9 us,  3.0 sy,  0.0 ni, 73.6 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   679672 free,  4032508 used,  2962108 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2634076 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  866788 375876  39064 R 102.0  4.9   0:22.01 glowstone-nativ
+
+top - 17:24:49 up  2:40,  4 users,  load average: 1.91, 2.06, 2.05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.0 us,  1.5 sy,  0.0 ni, 78.4 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,   679672 free,  4032508 used,  2962108 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2634076 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0  866788 375876  39052 R 100.0  4.9   0:22.51 glowstone-nativ
+
+top - 17:24:50 up  2:40,  4 users,  load average: 2.00, 2.08, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.9 us,  3.2 sy,  0.0 ni, 75.4 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   651984 free,  4052708 used,  2969596 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2606640 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1101620 389544  41960 S  98.0  5.1   0:23.00 glowstone-nativ
+
+top - 17:24:50 up  2:40,  4 users,  load average: 2.00, 2.08, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.8 us,  3.7 sy,  0.0 ni, 72.3 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,   651984 free,  4052708 used,  2969596 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2606640 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1101620 390516  41960 S 100.0  5.1   0:23.50 glowstone-nativ
+
+top - 17:24:51 up  2:40,  4 users,  load average: 2.00, 2.08, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.8 us,  3.6 sy,  0.0 ni, 76.7 id,  0.0 wa,  0.0 hi,  3.8 si,  0.0 st
+KiB Mem :  7674288 total,   651984 free,  4052708 used,  2969596 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2606640 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1101620 390524  41960 S  94.0  5.1   0:23.97 glowstone-nativ
+
+top - 17:24:51 up  2:40,  4 users,  load average: 2.00, 2.08, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 27.2 us,  4.4 sy,  0.0 ni, 66.2 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,   651984 free,  4052708 used,  2969596 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2606640 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1101620 390524  41960 S 102.0  5.1   0:24.48 glowstone-nativ
+
+top - 17:24:52 up  2:40,  4 users,  load average: 2.00, 2.08, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.9 us,  4.7 sy,  0.0 ni, 72.5 id,  0.2 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   651984 free,  4052708 used,  2969596 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2606640 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1104692 392848  41960 S  90.2  5.1   0:24.94 glowstone-nativ
+
+top - 17:24:52 up  2:40,  4 users,  load average: 2.00, 2.08, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.3 us,  2.4 sy,  0.0 ni, 74.9 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,   651984 free,  4052708 used,  2969596 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2606640 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1104692 392848  41960 S 102.0  5.1   0:25.45 glowstone-nativ
+
+top - 17:24:53 up  2:40,  4 users,  load average: 2.00, 2.08, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.1 us,  3.7 sy,  0.0 ni, 71.3 id,  0.2 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,   642144 free,  4070584 used,  2961560 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2597112 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1107764 396644  41960 S 100.0  5.2   0:25.95 glowstone-nativ
+
+top - 17:24:53 up  2:40,  4 users,  load average: 2.00, 2.08, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 24.7 us,  3.5 sy,  0.0 ni, 69.9 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,   642144 free,  4070584 used,  2961560 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2597112 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1107764 396644  41960 S  98.0  5.2   0:26.44 glowstone-nativ
+
+top - 17:24:54 up  2:40,  4 users,  load average: 2.00, 2.08, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.5 us,  1.5 sy,  0.0 ni, 77.9 id,  0.0 wa,  0.0 hi,  5.1 si,  0.0 st
+KiB Mem :  7674288 total,   642144 free,  4070584 used,  2961560 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2597112 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1107764 396644  41960 S  98.0  5.2   0:26.93 glowstone-nativ
+
+top - 17:24:54 up  2:40,  4 users,  load average: 2.00, 2.08, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.4 us,  5.2 sy,  0.0 ni, 74.2 id,  0.7 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   642144 free,  4070584 used,  2961560 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2597112 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1110836 399536  41960 S  98.0  5.2   0:27.42 glowstone-nativ
+
+top - 17:24:55 up  2:40,  4 users,  load average: 2.08, 2.09, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.5 us,  4.5 sy,  0.0 ni, 74.5 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,   642144 free,  4070584 used,  2961560 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2597112 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1110836 399536  41960 S 102.0  5.2   0:27.93 glowstone-nativ
+
+top - 17:24:55 up  2:40,  4 users,  load average: 2.08, 2.09, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.4 us,  2.7 sy,  0.0 ni, 77.0 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,   642144 free,  4070584 used,  2961560 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2597112 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1111860 399936  41960 S  96.0  5.2   0:28.41 glowstone-nativ
+
+top - 17:24:56 up  2:40,  4 users,  load average: 2.08, 2.09, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.6 us,  3.1 sy,  0.0 ni, 74.8 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,   638876 free,  4073588 used,  2961824 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2594024 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1111860 400144  41960 S 100.0  5.2   0:28.91 glowstone-nativ
+
+top - 17:24:56 up  2:40,  4 users,  load average: 2.08, 2.09, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.0 us,  4.2 sy,  0.0 ni, 71.6 id,  0.5 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   638876 free,  4073588 used,  2961824 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2594024 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1111860 400632  41960 S  96.1  5.2   0:29.40 glowstone-nativ
+
+top - 17:24:57 up  2:40,  4 users,  load average: 2.08, 2.09, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.0 us,  1.5 sy,  0.0 ni, 77.7 id,  0.0 wa,  0.0 hi,  3.9 si,  0.0 st
+KiB Mem :  7674288 total,   638876 free,  4073588 used,  2961824 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2594024 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1112884 400916  41960 S 100.0  5.2   0:29.90 glowstone-nativ
+
+top - 17:24:57 up  2:40,  4 users,  load average: 2.08, 2.09, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.3 us,  4.0 sy,  0.0 ni, 74.8 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,   638876 free,  4073588 used,  2961824 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2594024 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1112884 401188  41960 S  98.0  5.2   0:30.39 glowstone-nativ
+
+top - 17:24:58 up  2:40,  4 users,  load average: 2.08, 2.09, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.9 us,  4.4 sy,  0.0 ni, 73.3 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   638876 free,  4073588 used,  2961824 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2594024 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1112884 401504  41960 S 100.0  5.2   0:30.89 glowstone-nativ
+
+top - 17:24:58 up  2:40,  4 users,  load average: 2.08, 2.09, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.8 us,  2.4 sy,  0.0 ni, 76.8 id,  0.0 wa,  0.0 hi,  3.9 si,  0.0 st
+KiB Mem :  7674288 total,   638876 free,  4073588 used,  2961824 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2594024 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1114040 402064  41960 S  98.0  5.2   0:31.38 glowstone-nativ
+
+top - 17:24:59 up  2:40,  4 users,  load average: 2.08, 2.09, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.5 us,  2.2 sy,  0.0 ni, 75.4 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,   634812 free,  4077396 used,  2962080 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1114040 402880  41960 S 102.0  5.2   0:31.89 glowstone-nativ
+
+top - 17:24:59 up  2:40,  4 users,  load average: 2.08, 2.09, 2.06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.8 us,  3.2 sy,  0.0 ni, 72.2 id,  0.2 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   634812 free,  4077396 used,  2962080 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1115064 403184  41960 S  94.0  5.3   0:32.36 glowstone-nativ
+
+top - 17:25:00 up  2:40,  4 users,  load average: 2.15, 2.11, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.9 us,  3.4 sy,  0.0 ni, 77.1 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,   634812 free,  4077396 used,  2962080 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1115064 403500  41960 S 100.0  5.3   0:32.86 glowstone-nativ
+
+top - 17:25:00 up  2:40,  4 users,  load average: 2.15, 2.11, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.2 us,  1.8 sy,  0.0 ni, 74.8 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,   634812 free,  4077396 used,  2962080 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1115064 403712  41960 S 100.0  5.3   0:33.36 glowstone-nativ
+
+top - 17:25:01 up  2:40,  4 users,  load average: 2.15, 2.11, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.1 us,  4.8 sy,  0.0 ni, 73.4 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,   634812 free,  4077396 used,  2962080 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1115064 403768  41960 S  96.0  5.3   0:33.84 glowstone-nativ
+
+top - 17:25:01 up  2:40,  4 users,  load average: 2.15, 2.11, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.8 us,  1.5 sy,  0.0 ni, 79.8 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,   634812 free,  4077396 used,  2962080 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589968 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1116088 404056  41960 S 100.0  5.3   0:34.35 glowstone-nativ
+
+top - 17:25:02 up  2:40,  4 users,  load average: 2.15, 2.11, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.4 us,  3.2 sy,  0.0 ni, 76.4 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,   634080 free,  4077988 used,  2962220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589384 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1116088 404340  41960 S  98.0  5.3   0:34.84 glowstone-nativ
+
+top - 17:25:02 up  2:40,  4 users,  load average: 2.15, 2.11, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 39.7 us,  3.5 sy,  0.0 ni, 55.9 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,   634080 free,  4077988 used,  2962220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589384 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1116088 404608  41960 S 100.0  5.3   0:35.34 glowstone-nativ
+
+top - 17:25:03 up  2:40,  4 users,  load average: 2.15, 2.11, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.4 us,  2.7 sy,  0.0 ni, 77.0 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,   634080 free,  4077988 used,  2962220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589384 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1116088 404944  41960 S  98.0  5.3   0:35.83 glowstone-nativ
+
+top - 17:25:03 up  2:40,  4 users,  load average: 2.15, 2.11, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.3 us,  2.2 sy,  0.0 ni, 75.4 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   634080 free,  4077988 used,  2962220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589384 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1117244 405332  41960 S 100.0  5.3   0:36.33 glowstone-nativ
+
+top - 17:25:04 up  2:40,  4 users,  load average: 2.15, 2.11, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.4 us,  5.3 sy,  0.0 ni, 72.9 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+KiB Mem :  7674288 total,   634080 free,  4077988 used,  2962220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589384 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1117244 405928  41960 S  96.0  5.3   0:36.81 glowstone-nativ
+
+top - 17:25:04 up  2:40,  4 users,  load average: 2.15, 2.11, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.9 us,  2.0 sy,  0.0 ni, 79.1 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,   634080 free,  4077988 used,  2962220 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589384 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1117244 406156  41960 S 100.0  5.3   0:37.31 glowstone-nativ
+
+top - 17:25:05 up  2:40,  4 users,  load average: 2.14, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.8 us,  4.8 sy,  0.0 ni, 74.1 id,  0.5 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,   633684 free,  4078260 used,  2962344 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1117244 406156  41960 S  98.0  5.3   0:37.80 glowstone-nativ
+
+top - 17:25:05 up  2:40,  4 users,  load average: 2.14, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.8 us,  5.7 sy,  0.0 ni, 72.8 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+KiB Mem :  7674288 total,   633684 free,  4078260 used,  2962344 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1117244 406156  41960 S  98.0  5.3   0:38.30 glowstone-nativ
+
+top - 17:25:06 up  2:40,  4 users,  load average: 2.14, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.7 us,  3.2 sy,  0.0 ni, 77.4 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   633684 free,  4078260 used,  2962344 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1118268 406516  41960 S  98.0  5.3   0:38.79 glowstone-nativ
+
+top - 17:25:06 up  2:40,  4 users,  load average: 2.14, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.0 us,  3.7 sy,  0.0 ni, 75.1 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+KiB Mem :  7674288 total,   633684 free,  4078260 used,  2962344 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1118268 406860  41960 S  98.0  5.3   0:39.28 glowstone-nativ
+
+top - 17:25:07 up  2:40,  4 users,  load average: 2.14, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.9 us,  3.9 sy,  0.0 ni, 70.0 id,  0.5 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,   633684 free,  4078260 used,  2962344 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1118268 407160  41960 S  96.0  5.3   0:39.76 glowstone-nativ
+
+top - 17:25:07 up  2:40,  4 users,  load average: 2.14, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.8 us,  1.9 sy,  0.0 ni, 76.9 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,   633684 free,  4078260 used,  2962344 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2589056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1119292 407504  41960 S 100.0  5.3   0:40.26 glowstone-nativ
+
+top - 17:25:08 up  2:40,  4 users,  load average: 2.14, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.0 us,  3.5 sy,  0.0 ni, 74.1 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   630848 free,  4080964 used,  2962476 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2586360 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1119292 407780  41960 S  96.0  5.3   0:40.74 glowstone-nativ
+
+top - 17:25:08 up  2:40,  4 users,  load average: 2.14, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 26.3 us,  3.8 sy,  0.0 ni, 68.9 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,   630848 free,  4080964 used,  2962476 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2586360 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1119292 407780  41960 S 102.0  5.3   0:41.25 glowstone-nativ
+
+top - 17:25:09 up  2:40,  4 users,  load average: 2.14, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.6 us,  3.2 sy,  0.0 ni, 77.4 id,  0.0 wa,  0.0 hi,  3.9 si,  0.0 st
+KiB Mem :  7674288 total,   630848 free,  4080964 used,  2962476 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2586360 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1119292 408148  41960 S  96.0  5.3   0:41.73 glowstone-nativ
+
+top - 17:25:09 up  2:40,  4 users,  load average: 2.14, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.1 us,  2.7 sy,  0.0 ni, 74.0 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,   630848 free,  4080964 used,  2962476 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2586360 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1120316 408400  41960 S 100.0  5.3   0:42.23 glowstone-nativ
+
+top - 17:25:10 up  2:40,  4 users,  load average: 2.13, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.5 us,  3.0 sy,  0.0 ni, 73.0 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   630848 free,  4080964 used,  2962476 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2586360 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1120316 408744  41960 S 100.0  5.3   0:42.74 glowstone-nativ
+
+top - 17:25:10 up  2:40,  4 users,  load average: 2.13, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.2 us,  3.6 sy,  0.0 ni, 76.2 id,  0.2 wa,  0.0 hi,  3.8 si,  0.0 st
+KiB Mem :  7674288 total,   630848 free,  4080964 used,  2962476 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2586360 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1120316 409092  41960 S  98.0  5.3   0:43.23 glowstone-nativ
+
+top - 17:25:11 up  2:40,  4 users,  load average: 2.13, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.9 us,  2.0 sy,  0.0 ni, 74.9 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,   624800 free,  4086968 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2580328 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1121340 409456  42024 S 100.0  5.3   0:43.73 glowstone-nativ
+
+top - 17:25:11 up  2:40,  4 users,  load average: 2.13, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.1 us,  4.2 sy,  0.0 ni, 71.7 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,   624800 free,  4086968 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2580328 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1121340 409764  42024 S  98.0  5.3   0:44.22 glowstone-nativ
+
+top - 17:25:12 up  2:40,  4 users,  load average: 2.13, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.2 us,  2.2 sy,  0.0 ni, 78.2 id,  0.0 wa,  0.0 hi,  3.4 si,  0.0 st
+KiB Mem :  7674288 total,   624800 free,  4086968 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2580328 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1121340 409980  42024 S 100.0  5.3   0:44.72 glowstone-nativ
+
+top - 17:25:12 up  2:40,  4 users,  load average: 2.13, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.7 us,  4.5 sy,  0.0 ni, 73.6 id,  0.7 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,   624800 free,  4086968 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2580328 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1121340 410072  42024 S  96.0  5.3   0:45.20 glowstone-nativ
+
+top - 17:25:13 up  2:40,  4 users,  load average: 2.13, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.2 us,  3.2 sy,  0.0 ni, 72.8 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,   624800 free,  4086968 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2580328 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1122624 410912  42024 S 100.0  5.4   0:45.70 glowstone-nativ
+
+top - 17:25:13 up  2:40,  4 users,  load average: 2.13, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.6 us,  2.2 sy,  0.0 ni, 77.9 id,  0.0 wa,  0.0 hi,  4.4 si,  0.0 st
+KiB Mem :  7674288 total,   624800 free,  4086968 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2580328 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1123648 411948  42024 S  98.0  5.4   0:46.19 glowstone-nativ
+
+top - 17:25:14 up  2:40,  4 users,  load average: 2.13, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.0 us,  2.5 sy,  0.0 ni, 74.2 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,   620832 free,  4090936 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2576436 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1123648 412600  42024 S 102.0  5.4   0:46.70 glowstone-nativ
+
+top - 17:25:14 up  2:40,  4 users,  load average: 2.13, 2.10, 2.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.2 us,  4.5 sy,  0.0 ni, 68.8 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,   620832 free,  4090936 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2576436 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1124672 413084  42024 S  96.0  5.4   0:47.18 glowstone-nativ
+
+top - 17:25:15 up  2:40,  4 users,  load average: 2.28, 2.13, 2.08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.6 us,  5.9 sy,  0.0 ni, 58.3 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,   620832 free,  4090936 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2576436 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1124672 413320  42024 S  98.0  5.4   0:47.67 glowstone-nativ
+
+top - 17:25:15 up  2:40,  4 users,  load average: 2.28, 2.13, 2.08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.1 us,  3.9 sy,  0.0 ni, 70.8 id,  0.2 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   620832 free,  4090936 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2576436 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1125696 413664  42024 S  98.0  5.4   0:48.17 glowstone-nativ
+
+top - 17:25:16 up  2:40,  4 users,  load average: 2.28, 2.13, 2.08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.9 us,  2.6 sy,  0.0 ni, 73.0 id,  0.0 wa,  0.0 hi,  3.6 si,  0.0 st
+KiB Mem :  7674288 total,   620832 free,  4090936 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2576436 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1125696 413972  42024 S 100.0  5.4   0:48.67 glowstone-nativ
+
+top - 17:25:16 up  2:40,  4 users,  load average: 2.28, 2.13, 2.08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.2 us,  2.9 sy,  0.0 ni, 77.9 id,  0.0 wa,  0.0 hi,  4.0 si,  0.0 st
+KiB Mem :  7674288 total,   620832 free,  4090936 used,  2962520 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2576436 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1125564 414540  42024 S  98.0  5.4   0:49.16 glowstone-nativ
+
+top - 17:25:17 up  2:40,  4 users,  load average: 2.28, 2.13, 2.08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.0 us,  3.1 sy,  0.0 ni, 74.8 id,  0.5 wa,  0.0 hi,  3.6 si,  0.0 st
+KiB Mem :  7674288 total,   603492 free,  4103872 used,  2966924 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2561768 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1125564 414540  42024 S 100.0  5.4   0:49.66 glowstone-nativ
+
+top - 17:25:17 up  2:40,  4 users,  load average: 2.28, 2.13, 2.08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.3 us,  1.7 sy,  0.0 ni, 78.8 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,   603492 free,  4103872 used,  2966924 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2561768 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1125564 414540  42024 S 100.0  5.4   0:50.16 glowstone-nativ
+
+top - 17:25:18 up  2:40,  4 users,  load average: 2.28, 2.13, 2.08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.2 us,  2.4 sy,  0.0 ni, 79.5 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,   603492 free,  4103872 used,  2966924 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2561768 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1126588 414572  42024 S  98.0  5.4   0:50.65 glowstone-nativ
+
+top - 17:25:18 up  2:40,  4 users,  load average: 2.28, 2.13, 2.08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.2 us,  2.2 sy,  0.0 ni, 78.9 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,   603492 free,  4103872 used,  2966924 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2561768 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1126588 414736  42024 S 100.0  5.4   0:51.15 glowstone-nativ
+
+top - 17:25:19 up  2:40,  4 users,  load average: 2.28, 2.13, 2.08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.3 us,  2.4 sy,  0.0 ni, 78.0 id,  0.2 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,   603492 free,  4103872 used,  2966924 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2561768 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1126588 415048  42024 S  96.0  5.4   0:51.63 glowstone-nativ
+
+top - 17:25:19 up  2:40,  4 users,  load average: 2.28, 2.13, 2.08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.6 us,  2.5 sy,  0.0 ni, 73.8 id,  0.2 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,   603492 free,  4103872 used,  2966924 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2561768 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1126588 415348  42024 S 100.0  5.4   0:52.14 glowstone-nativ
+
+top - 17:25:20 up  2:40,  4 users,  load average: 2.50, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 37.7 us,  5.0 sy,  0.0 ni, 56.5 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :  7674288 total,   567060 free,  4132352 used,  2974876 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2537704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1127612 415600  42024 S  98.0  5.4   0:52.63 glowstone-nativ
+
+top - 17:25:20 up  2:40,  4 users,  load average: 2.50, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.3 us,  2.7 sy,  0.0 ni, 73.3 id,  0.5 wa,  0.0 hi,  3.2 si,  0.0 st
+KiB Mem :  7674288 total,   567060 free,  4132352 used,  2974876 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2537704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1127612 416340  42024 S 100.0  5.4   0:53.13 glowstone-nativ
+
+top - 17:25:21 up  2:40,  4 users,  load average: 2.50, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.4 us,  2.7 sy,  0.0 ni, 80.2 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,   567060 free,  4132352 used,  2974876 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2537704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1128636 416608  42024 S  98.0  5.4   0:53.62 glowstone-nativ
+
+top - 17:25:21 up  2:40,  4 users,  load average: 2.50, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.7 us,  1.2 sy,  0.0 ni, 75.2 id,  0.0 wa,  0.0 hi,  3.9 si,  0.0 st
+KiB Mem :  7674288 total,   567060 free,  4132352 used,  2974876 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2537704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1128636 418200  42880 S 132.0  5.4   0:54.28 glowstone-nativ
+
+top - 17:25:22 up  2:41,  4 users,  load average: 2.50, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.1 us,  1.5 sy,  0.0 ni, 76.5 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,   567060 free,  4132352 used,  2974876 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2537704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1130684 419264  42880 S 142.0  5.5   0:54.99 glowstone-nativ
+
+top - 17:25:22 up  2:41,  4 users,  load average: 2.50, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.7 us,  2.2 sy,  0.0 ni, 79.2 id,  0.0 wa,  0.0 hi,  2.9 si,  0.0 st
+KiB Mem :  7674288 total,   567060 free,  4132352 used,  2974876 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2537704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1130684 419264  42880 S  98.0  5.5   0:55.48 glowstone-nativ
+
+top - 17:25:23 up  2:41,  4 users,  load average: 2.50, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.3 us,  4.7 sy,  0.0 ni, 78.8 id,  0.5 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   603604 free,  4102048 used,  2968636 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2565620 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1130684 419264  42880 S  16.0  5.5   0:55.56 glowstone-nativ
+
+top - 17:25:23 up  2:41,  4 users,  load average: 2.50, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.6 us,  4.0 sy,  0.0 ni, 83.9 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,   603604 free,  4102048 used,  2968636 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2565620 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1130684 419264  42880 S  12.0  5.5   0:55.62 glowstone-nativ
+
+top - 17:25:24 up  2:41,  4 users,  load average: 2.50, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.1 us,  3.0 sy,  0.0 ni, 86.0 id,  0.0 wa,  0.0 hi,  2.8 si,  0.0 st
+KiB Mem :  7674288 total,   603604 free,  4102048 used,  2968636 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2565620 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1130684 419264  42880 S  12.0  5.5   0:55.68 glowstone-nativ
+
+top - 17:25:24 up  2:41,  4 users,  load average: 2.50, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.1 us,  3.0 sy,  0.0 ni, 80.1 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,   603604 free,  4102048 used,  2968636 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2565620 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1130684 419264  42880 S  11.8  5.5   0:55.74 glowstone-nativ
+
+top - 17:25:25 up  2:41,  4 users,  load average: 2.46, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.2 us,  1.2 sy,  0.0 ni, 86.8 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,   603604 free,  4102048 used,  2968636 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2565620 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1130684 419264  42880 S  10.0  5.5   0:55.79 glowstone-nativ
+
+top - 17:25:25 up  2:41,  4 users,  load average: 2.46, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.1 us,  2.5 sy,  0.0 ni, 87.9 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   603604 free,  4102048 used,  2968636 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2565620 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1130684 419264  42880 S  10.0  5.5   0:55.84 glowstone-nativ
+
+top - 17:25:26 up  2:41,  4 users,  load average: 2.46, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.5 us,  3.0 sy,  0.0 ni, 86.5 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   630268 free,  4094580 used,  2949440 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2592284 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1130684 419264  42880 S  12.0  5.5   0:55.90 glowstone-nativ
+
+top - 17:25:26 up  2:41,  4 users,  load average: 2.46, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.1 us,  2.7 sy,  0.0 ni, 86.2 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st
+KiB Mem :  7674288 total,   630268 free,  4094580 used,  2949440 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2592284 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1130684 419264  42880 S  14.0  5.5   0:55.97 glowstone-nativ
+
+top - 17:25:27 up  2:41,  4 users,  load average: 2.46, 2.18, 2.09
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.8 us,  5.2 sy,  0.0 ni, 74.8 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,   630268 free,  4094580 used,  2949440 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2592284 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 4558 clifrr    20   0 1130684 419264  42880 S  12.0  5.5   0:56.03 glowstone-nativ
+
+top - 17:25:27 up  2:41,  3 users,  load average: 2.46, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11.0 us,  6.7 sy,  0.5 ni, 79.3 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   630268 free,  4094580 used,  2949440 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2592284 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:28 up  2:41,  3 users,  load average: 2.46, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11.1 us,  5.2 sy,  0.0 ni, 81.4 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,   630268 free,  4094580 used,  2949440 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2592284 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:28 up  2:41,  3 users,  load average: 2.46, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.5 us,  2.5 sy,  0.0 ni, 89.2 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,   630268 free,  4094580 used,  2949440 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2592284 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:29 up  2:41,  3 users,  load average: 2.46, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.7 us,  3.0 sy,  0.0 ni, 88.3 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   991816 free,  3716264 used,  2966208 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2953904 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:29 up  2:41,  3 users,  load average: 2.46, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.0 us,  3.0 sy,  0.0 ni, 88.6 id,  0.5 wa,  0.0 hi,  1.0 si,  0.0 st
+KiB Mem :  7674288 total,   991816 free,  3716264 used,  2966208 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2953904 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:30 up  2:41,  3 users,  load average: 2.42, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.4 us,  2.0 sy,  0.0 ni, 86.9 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,   991816 free,  3716264 used,  2966208 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2953904 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:30 up  2:41,  3 users,  load average: 2.42, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.9 us,  2.5 sy,  0.0 ni, 88.6 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   991816 free,  3716264 used,  2966208 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2953904 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:31 up  2:41,  3 users,  load average: 2.42, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.4 us,  3.0 sy,  0.0 ni, 85.7 id,  0.2 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   991816 free,  3716264 used,  2966208 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2953904 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:31 up  2:41,  3 users,  load average: 2.42, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.9 us,  2.7 sy,  0.0 ni, 87.1 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,   991816 free,  3716264 used,  2966208 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2953904 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:32 up  2:41,  3 users,  load average: 2.42, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.5 us,  7.1 sy,  0.5 ni, 74.0 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   980940 free,  3723984 used,  2969364 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2943040 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:32 up  2:41,  3 users,  load average: 2.42, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.0 us,  3.5 sy,  0.0 ni, 87.1 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   980940 free,  3723984 used,  2969364 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2943040 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:33 up  2:41,  3 users,  load average: 2.42, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  2.2 sy,  0.0 ni, 87.0 id,  0.0 wa,  0.0 hi,  2.4 si,  0.0 st
+KiB Mem :  7674288 total,   980940 free,  3723984 used,  2969364 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2943040 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:33 up  2:41,  3 users,  load average: 2.42, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.8 us,  3.0 sy,  0.0 ni, 77.8 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   980940 free,  3723984 used,  2969364 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2943040 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:34 up  2:41,  3 users,  load average: 2.42, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.7 us,  5.2 sy,  0.0 ni, 70.4 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   980940 free,  3723984 used,  2969364 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2943040 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:34 up  2:41,  3 users,  load average: 2.42, 2.18, 2.09
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.8 us,  3.3 sy,  0.0 ni, 76.1 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,   980940 free,  3723984 used,  2969364 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2943040 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:35 up  2:41,  3 users,  load average: 2.31, 2.16, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.1 us,  3.3 sy,  0.0 ni, 81.6 id,  0.5 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,   984244 free,  3721736 used,  2968308 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2946472 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:35 up  2:41,  3 users,  load average: 2.31, 2.16, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.9 us,  4.5 sy,  0.0 ni, 77.1 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   984244 free,  3721736 used,  2968308 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2946472 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:36 up  2:41,  3 users,  load average: 2.31, 2.16, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.5 us,  9.5 sy,  0.8 ni, 65.2 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   984244 free,  3721736 used,  2968308 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2946472 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:36 up  2:41,  3 users,  load average: 2.31, 2.16, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.6 us,  9.1 sy,  0.0 ni, 74.1 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,   984244 free,  3721736 used,  2968308 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2946472 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:37 up  2:41,  3 users,  load average: 2.31, 2.16, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.9 us,  6.5 sy,  0.0 ni, 71.3 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+KiB Mem :  7674288 total,   984244 free,  3721736 used,  2968308 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2946472 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:37 up  2:41,  3 users,  load average: 2.31, 2.16, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.0 us,  5.6 sy,  0.0 ni, 75.9 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+KiB Mem :  7674288 total,   984244 free,  3721736 used,  2968308 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2946472 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:38 up  2:41,  3 users,  load average: 2.31, 2.16, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.5 us,  4.5 sy,  0.0 ni, 75.0 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   988500 free,  3715592 used,  2970196 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2950740 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:38 up  2:41,  3 users,  load average: 2.31, 2.16, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.9 us,  4.8 sy,  0.0 ni, 77.3 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   988500 free,  3715592 used,  2970196 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2950740 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:39 up  2:41,  3 users,  load average: 2.31, 2.16, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.8 us,  4.3 sy,  0.0 ni, 78.9 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   988500 free,  3715592 used,  2970196 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2950740 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:39 up  2:41,  3 users,  load average: 2.31, 2.16, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.9 us,  3.9 sy,  0.0 ni, 83.5 id,  0.0 wa,  0.0 hi,  2.7 si,  0.0 st
+KiB Mem :  7674288 total,   988500 free,  3715592 used,  2970196 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2950740 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:40 up  2:41,  3 users,  load average: 2.20, 2.14, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.9 us,  5.4 sy,  0.0 ni, 75.0 id,  0.0 wa,  0.0 hi,  1.8 si,  0.0 st
+KiB Mem :  7674288 total,   988500 free,  3715592 used,  2970196 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2950740 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:40 up  2:41,  3 users,  load average: 2.20, 2.14, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.5 us,  4.9 sy,  0.0 ni, 79.1 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   988500 free,  3715592 used,  2970196 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2950740 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:41 up  2:41,  3 users,  load average: 2.20, 2.14, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.7 us,  5.5 sy,  0.0 ni, 78.1 id,  0.7 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   997352 free,  3715936 used,  2961000 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2959724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:41 up  2:41,  3 users,  load average: 2.20, 2.14, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.0 us,  5.0 sy,  0.0 ni, 77.1 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st
+KiB Mem :  7674288 total,   997352 free,  3715936 used,  2961000 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2959724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:42 up  2:41,  3 users,  load average: 2.20, 2.14, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.3 us,  5.2 sy,  0.0 ni, 76.8 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   997352 free,  3715936 used,  2961000 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2959724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:42 up  2:41,  3 users,  load average: 2.20, 2.14, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.9 us,  4.4 sy,  0.0 ni, 84.0 id,  0.0 wa,  0.0 hi,  1.7 si,  0.0 st
+KiB Mem :  7674288 total,   997352 free,  3715936 used,  2961000 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2959724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:43 up  2:41,  3 users,  load average: 2.20, 2.14, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.9 us,  5.5 sy,  0.0 ni, 72.8 id,  0.5 wa,  0.0 hi,  2.3 si,  0.0 st
+KiB Mem :  7674288 total,   997352 free,  3715936 used,  2961000 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2959724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:43 up  2:41,  3 users,  load average: 2.20, 2.14, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.6 us,  4.0 sy,  0.0 ni, 80.2 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st
+KiB Mem :  7674288 total,   997352 free,  3715936 used,  2961000 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2959724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+
+top - 17:25:44 up  2:41,  3 users,  load average: 2.20, 2.14, 2.08
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.8 us,  3.5 sy,  0.0 ni, 78.2 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st
+KiB Mem :  7674288 total,   997516 free,  3715532 used,  2961240 buff/cache
+KiB Swap:  4194300 total,  3388156 free,   806144 used.  2959896 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
