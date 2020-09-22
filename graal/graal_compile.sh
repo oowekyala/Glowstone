@@ -15,6 +15,9 @@ mkdir -p "$WD"
 
 pushd "$WD" || exit
 
+# From netty conf files:
+# --initialize-at-run-time=io.netty.buffer.PooledByteBufAllocator,io.netty.buffer.ByteBufAllocator,io.netty.buffer.ByteBufUtil,io.netty.buffer.AbstractReferenceCountedByteBuf
+
 "$GRAALVM_HOME/bin/native-image" \
     --no-server \
     -J-Xmx8g \
@@ -31,7 +34,7 @@ pushd "$WD" || exit
     "-H:DynamicProxyConfigurationFiles=$CONFD/proxy-config.json" \
     -H:+TraceClassInitialization \
     -H:IncludeResourceBundles=strings,commands,org.bukkit.craftbukkit.libs.jline.console.completer.CandidateListCompletionHandler \
-    --initialize-at-build-time=org.bukkit.Material,com.google.common.base,com.google.common.collect,org.slf4j.impl \
+    --initialize-at-build-time=org.bukkit.Material,com.google.common.base,com.google.common.collect,org.slf4j,org.slf4j.impl,io.netty.util.internal,io.netty.util.concurrent,io.netty.util.CharsetUtil,io.netty.util.Recycler \
     '--initialize-at-run-time=net.glowstone.inventory.ToolType$ToolMaterial' \
     -H:+ReportExceptionStackTraces $@
 
