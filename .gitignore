@@ -22,3 +22,5 @@ dependency-reduced-pom.xml
 .DS_Store
 .vscode
 sandbox
+tmp
+bench_results
